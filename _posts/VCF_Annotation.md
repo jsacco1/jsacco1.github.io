@@ -3,7 +3,6 @@ title: "Annotate a VCF"
 date: 2020-12-08
 tags: [data wrangling, genomics, NGS]
 header:
-  image: "/images/example-VCF-file.png"
 excerpt: "data wrangling, genomics, NGS"
 mathjax: "true"
 ---
