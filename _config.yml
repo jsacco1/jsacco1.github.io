@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "James Sacco"
-  avatar           : "/images/bay bridge evening looking at island.jpg" # path of avatar image, e.g. "/assets/images/bio-pic-2.jpg"
+  avatar           : "/images/linkedin_default_pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-pic-2.jpg"
   bio              : "Data Science Portfolio"
   location         : "San Francisco, CA, USA"
   email            : "jsacco001@gmail.com"
