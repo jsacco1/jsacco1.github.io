@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/cloudy bay view of downtown.jpg"
 ---
 
 I’m a self-motivated bioinformatician and data scientist, experienced in scientific Python and R programming. I have worked on cancer and rare Mendelian disease genomics, biomarker operations, and data infrastructure. I specialize in the analysis, structure, and wrangling of biological data, especially from next-generation sequencing experiments to find differentially expressed genes. As I enjoy working on projects together, please feel free to reach out for collaboration! 
