@@ -87,7 +87,7 @@ author:
   name             : "James Sacco"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "San Francisco, California, USA"
+  location         : "San Francisco, CA, USA"
   email            : "jsacco001@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
