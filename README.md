@@ -169,6 +169,11 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 - [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [Lunr](http://lunrjs.com)
 
+### References (by James):
+
+- [How to Use Github for Hosting Files - Labnol.org](https://www.labnol.org/internet/free-file-hosting-github/29092/)
+
+
 ---
 
 ## License
