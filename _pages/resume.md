@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 permalink: /James_Sacco_resume.pdf/
-author_profile: true
 
 ---
 
