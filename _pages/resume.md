@@ -1,5 +1,4 @@
 ---
-layout: posts
 permalink: /James_Sacco_resume.pdf/
 title: "Resume"
 author_profile: true
