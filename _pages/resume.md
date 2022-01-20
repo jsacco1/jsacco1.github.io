@@ -2,8 +2,7 @@
 permalink: /James_Sacco_resume.pdf/
 title: "Resume"
 author_profile: true
-header:
-  image: ""
+
 ---
 
 **JAMES SACCO![](Aspose.Words.eb3063da-8c09-487f-9519-44c07f4ce427.001.png)**
