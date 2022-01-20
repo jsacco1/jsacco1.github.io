@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Data Wrangling Projects"
     url: /data-wrangling/
-  - title: "Resume"
+  - title: "CV"
     url: https://github.com/jsacco1/jsacco1.github.io/blob/master/James_Sacco_resume.pdf?raw=true
   # - title: "Sample Posts"
   #   url: /year-archive/
