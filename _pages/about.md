@@ -7,7 +7,7 @@ header:
 
 I’m a self-motivated bioinformatician and data scientist, experienced in scientific Python and R programming. I have worked on cancer and rare Mendelian disease genomics, biomarker operations, and data infrastructure. I have hands-on experience with next-generation sequencing experiments, specifically RNA-Seq, and differential gene expression analysis. As I enjoy working on projects together, please feel free to reach out for collaboration! 
 
-Please be patient as this website is currently under construction. In the meantime, please see my Github and [resume](<embed src="https://github.com/jsacco1/jsacco1.github.io/blob/master/James_Sacco_resume.pdf" type="application/pdf" width="100%" height="600px" />) to learn more about me.
+Please be patient as this website is currently under construction. In the meantime, please see my Github and [resume](/resume) to learn more about me.
 
 Thank you,
 
