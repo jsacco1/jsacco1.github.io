@@ -6,4 +6,13 @@
 [![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
 
 
-Note: To update html version of CV, first convert html to md format, and upload the md file to the pages folder of this repo.
+Note: To update html version of CV, open cv folder. Create a new index.hmtl file with 
+
+```
+--
+layout: null
+--
+
+```
+
+at the top, and then copy and paste all the source html code from the html file report created by knitting the pagedown.Rmd file. 
