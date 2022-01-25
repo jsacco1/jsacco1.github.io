@@ -1,5 +1,5 @@
 ---
-title: "James Sacco resume"
+title: "CV"
 author: James Sacco
 date: "2022-01-25"
 params:
