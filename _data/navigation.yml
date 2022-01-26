@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: about/
   - title: "Blog"
-    url: data-wrangling/
+    url: blog/
   - title: "CV"
     url: cv/
   # - title: "Sample Posts"
