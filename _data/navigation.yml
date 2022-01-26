@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: about/
-  - title: "Data Wrangling Projects"
+  - title: "Blog"
     url: data-wrangling/
   - title: "CV"
     url: cv/
