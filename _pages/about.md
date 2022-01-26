@@ -4,11 +4,13 @@ permalink: /about/
 header:
   image: "images/1280px-Sweet_Sunrise_over_San_Francisco.jpg"
 ---
+Welcome to my page!
 
-I’m a self-motivated bioinformatician and data scientist, experienced in scientific Python and R programming, especially in support of next-generation sequencing and CRISPR gene editing experiments. I most enjoy working on RNA-Seq data, and am proficient in differential gene expression and gene set enrichment analyses, as well as genomic variant annotation. I have supported clinical trials on cancer immunotherapy and rare Mendelian disease genomics, enhanced biomarker operations, and constructed pipelines/workflows. As I enjoy working on projects together, please feel free to reach out for collaboration! 
+I’m a San Francisco-based bioinformatics scientist, experienced in Python and R programming, especially in support of next-generation sequencing (NGS) and CRISPR gene editing experiments. I most enjoy working on RNA-Seq data, and am proficient in several workflows: differential gene expression, gene set enrichment, and genomic variant annotation. I have supported clinical trials for cancer immunotherapy (inaccurately called "cancer vaccines") and gene therapy, and insights into biomarker operations. 
 
-Please be patient as this website is currently under construction.
+As I enjoy working on projects together, please feel free to reach out for collaboration! 
 
 Thank you,
 
 James
+(they/them/theirs)
