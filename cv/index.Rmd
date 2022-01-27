@@ -223,7 +223,7 @@ San Rafael, CA
 
 ### Research Associate
 
-![UM](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miami_Hurricanes_logo.svg/120px-Miami_Hurricanes_logo.svg.png){width=10%} University of Miami Miller School of Medicine,
+![UM](https://1000logos.net/wp-content/uploads/2017/07/University-of-Miami-Logo.png){width=10%} University of Miami Miller School of Medicine,
 The Miami Project to Cure Paralysis, Pearse Lab
 
 Miami, FL
@@ -243,7 +243,7 @@ Disclaimer {#disclaimer}
 
 This resume was made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
  
-Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.html).
+Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.pdf).
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
