@@ -1,5 +1,5 @@
 ---
-title: "James Sacco resume"
+title: "cv"
 author: James Sacco
 date: "`r Sys.Date()`"
 params:
@@ -86,6 +86,8 @@ Contact Info {#contact}
 
 Key Skills {#skills}
 --------------------------------------------------------------------------------
+
+- Expert programming in **Python**, **R**, and **shell scripting**
 
 - Extensive experience with **NGS data analyses** (differential gene expression, gene set enrichment, variant annotation) and workflow development
 
@@ -175,13 +177,15 @@ South San Francisco, CA
 
 <i class="fab fa-python"></i> `Python`
 
-<i class="fab fa-linux"></i> `Linux`
+<i class="fab fa-linux"></i> `Linux` 
 
 <i class="fas fa-code-branch"></i> `Git`
 
 <i class="fab fa-github"></i> `GitHub`
 
 <i class="fab fa-markdown"></i> `Markdown`
+
+![C++](https://www.pikpng.com/pngl/m/489-4892167_c-logo-png-transparent-c-language-logo-png.png){width=7%} `C++`
 
 <i class="fab fa-css3-alt"></i> `CSS`
 
@@ -193,7 +197,7 @@ South San Francisco, CA
 
 **English:** Native
 
-**Spanish:** Proficient/Native
+**Spanish:** Bilingual Proficiency
 
 :::
 
@@ -237,7 +241,7 @@ Miami, FL
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was built with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
+This resume was made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
  
 Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.html).
 :::
