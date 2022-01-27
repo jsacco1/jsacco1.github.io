@@ -91,7 +91,7 @@ Key Skills {#skills}
 
 - Extensive experience with **NGS data analyses** (differential gene expression, gene set enrichment, variant annotation) and workflow development
 
-- Proficient in several **_in silico_ CRISPR gene editing** modules
+- Proficient in several _in silico_ **CRISPR gene editing** modules
 
 - Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, BEDtools, SAMtools, **DESeq**, **edgeR,** Hail)
 
@@ -101,14 +101,14 @@ Main
 **James Sacco** {#title}
 --------------------------------------------------------------------------------
 
-**Pronouns: "They"/"Them"/"Theirs"**
+**Pronouns: They/Them/Theirs**
 
 **Bioinformatics Scientist**  
 **Department of Gene and Cell Therapy**  
 **ASC Therapeutics**  
 **Milpitas, CA, 95035**
 
-Independent, self-motivated bioinformatics scientist, with **six years** of combined experience in cancer immunotherapy and **gene therapy**. Specialist in computational biology of **CRISPR gene editing**. An analytical thinker and quick learner, with experience in next-generation sequencing **(NGS)** methods, such as **RNA-Seq**, and development of reproducible, robust **pipelines.** 
+Independent, self-motivated bioinformatics scientist, with **six years** of combined experience in cancer immunotherapy and **gene therapy**. Specialist in computational biology of **CRISPR gene editing**. An analytical thinker and quick learner, with experience in next-generation sequencing **(NGS)** methods, such as **RNA-Seq**, and development of **reproducible, robust pipelines.** 
 
 Integrated genotype-phenotype data to predict disease severity. Developed **machine learning** applications to analyze population-scale genomics and real-world patient data.
 
@@ -126,13 +126,13 @@ Milpitas, CA
 Present - 2021
 
 ::: concise
-● Quantify and characterize CRISPR gene modifications, with both custom and open-source tools for genomic data analysis.
+● Quantify and characterize **CRISPR gene modifications**, with both custom and open-source tools for genomic data analysis.
 
 ● Query, retrieve, and integrate data from public genomics databases, to enhance on-target gene editing with sequence alignment protocols. 
 
-● Examine concordance and sensitivity of five open-source CRISPR off-target detection methods (CALITAS, CHANGE-Seq, CRISPResso, GUIDE-Seq, and Cas-OFFinder).
+● Examine concordance and sensitivity of five open-source CRISPR off-target detection methods (**CALITAS**, **CHANGE-Seq**, **CRISPResso**, **GUIDE-Seq**, and **Cas-OFFinder**).
 
-● Streamline high-performace analyses for bench scientists by constructing custom data pipelines.
+● Streamline high-performace analyses for bench scientists by constructing **custom data pipelines**.
 
 ● Spearhead implementation of version control, and programming best practices.
 :::
@@ -145,9 +145,9 @@ South San Francisco, CA
 2020 - 2019
 
 ::: concise
-● Established department-first machine learning pipeline to study effects of biomarker operations on quality of cancer immunotherapy assays.
+● Established department-first **machine learning pipeline** to study effects of biomarker operations on quality of cancer immunotherapy assays.
 
-●	Upgraded data operations for six data streams, including flow cytometry, biomarker operations, and oncology data warehouses.
+●	Upgraded **data operations** for six data streams, including flow cytometry, biomarker operations, and oncology data warehouses.
 
 ●	Monitored and solved sample data quality issues for two cancer immunotherapy trial arms.
 :::
@@ -161,11 +161,11 @@ South San Francisco, CA
 2019 - 2018 
 
 ::: concise
-●	Collaborated with AI engineers to create an ETL pipeline for multi-modal survival prediction and patient stratification, by using Python machine learning and R/Bioconductor to integrate gene panel and RNA-Seq data.
+●	Collaborated with AI engineers to create an ETL pipeline for **multi-modal survival prediction and patient stratification**, by using Python ML and R to integrate **gene panel** and **RNA-Seq data**.
 
-●	Designed ETL data pipeline for integration of real-world EHRs into deep learning module, using Python, SQL, and Apache Spark.
+●	Designed ETL data pipeline for integration of **real-world EHRs** into **deep learning** module, using Python, SQL, and Apache Spark.
 
-●	Organized and managed close coordination of Artificial Intelligence, data management, and DevOps functions, to bring clinical machine learning from prototype to production.
+●	Organized and managed close coordination of Artificial Intelligence, data management, and DevOps functions, to bring **clinical machine learning** from prototype to production.
 :::
 
 ::: aside
@@ -210,15 +210,15 @@ San Rafael, CA
 2018 - 2017 
 
 ::: concise
-●	Established an integrated genetic and curated literature workflow to predict incidence and prevalence rates of over sixty rare, genetic disorders, with R statistical and visualization packages (ggplot2) and MATLAB.
+●	Established an integrated genetic and curated literature workflow to predict incidence and prevalence rates of **over sixty rare, genetic disorders,** with **statistical and data visualization R packages (ggplot2)** and **MATLAB**.
 
-●	Upgraded and tested RNA-Seq data pipeline (STAR2, SAMtools, Bioconductor) to discern disease contribution of rare variants to neural disease.
+●	Upgraded and tested **RNA-Seq data pipeline (STAR2, SAMtools, Bioconductor)** to discern disease contribution of **rare variants** to neural disease.
 
-●	Spearheaded development of three relational databases derived from Hail HPC population genomics platform, in collaboration with software engineer.
+●	Spearheaded development of three relational databases derived from **Hail population genomics platform**, in collaboration with software engineer.
 
-●	Co-authored manuscript submitted to peer-reviewed publication, on prediction of disease severity in metachromatic leukodystrophy.
+●	Co-authored manuscript submitted to peer-reviewed publication, on **prediction of disease severity** in metachromatic leukodystrophy.
 
-●	Developed allele-specific association models and GWAS analysis software for two later published manuscripts.
+●	Developed **allele-specific association models and GWAS analysis software** for two later published manuscripts.
 :::
 
 ### Research Associate
@@ -231,9 +231,9 @@ Miami, FL
 2017 - 2016
 
 ::: concise
-●	Mentored research associates in developing bioinformatic skills, specifically in multiple sequence alignment and standard molecular biological protocols (restriction enzyme digestion, gel electrophoresis, spectrophotometry).
+●	Mentored research associates in developing bioinformatic skills, specifically in **multiple sequence alignment** and **standard molecular biological protocols** (restriction enzyme digestion, gel electrophoresis, spectrophotometry).
 
-●	Identified over forty putative conserved vertebrate phosphodiesterase proteins, by using multiple sequence alignment and genomic evidence.
+●	Identified over forty putative **conserved vertebrate phosphodiesterase proteins**, by using multiple sequence alignment and genomic evidence.
 :::
 
 ::: aside
