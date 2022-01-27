@@ -238,10 +238,8 @@ Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 This resume was built with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
-
-Code available on <i class="fa fa-github"></i>  [GitHub](https://github.com/jsacco1/resume). 
-
-Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/resume/blob/main/index.pdf).
+ 
+Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.html).
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
