@@ -104,9 +104,9 @@ Main
 **They/Them/Theirs**
 
 **Bioinformatics Scientist**  
-**Department of Gene and Cell Therapy**  
-**ASC Therapeutics**  
-**Milpitas, CA, 95035**
+**Doudna Lab**  
+**Howard Hughes Medical Institute, University of California, Berkeley**  
+**Berkeley, CA, 94720**
 
 Independent, self-motivated bioinformatics scientist, with **six years** of combined experience in cancer immunotherapy and **gene therapy**. Specialist in computational biology of **CRISPR gene editing**. An analytical thinker and quick learner, with experience in next-generation sequencing **(NGS)** methods, such as **RNA-Seq**, and development of **reproducible, robust pipelines.** 
 
@@ -119,11 +119,29 @@ Experience {data-icon=briefcase}
 
 ### Bioinformatics Scientist
 
+![HHMI](https://prl.natsci.msu.edu/sites/_prl/assets/Image/About_PRL/HHMI-logo-xs.jpg){width=10%} Howard Hughes Medical Institute, University of California, Berkeley 
+
+Berkeley, CA
+
+2022 - Present
+
+::: concise
+● Design and implement bioinformatic pipelines to handle next-generation sequencing data from both prokaryotic and eukaryotic samples.
+
+● Analyze and present both genomic (DNA-seq) and transcriptomic (RNA-seq) datasets using R.
+
+● Perform differential gene expression analyses on RNA-seq data.
+
+● Map genome deletions/insertions/mutations.
+:::
+
+### Bioinformatics Scientist
+
 ![ASC](https://medicalnewsupdates.com/wp-content/uploads/2021/07/asc_therapeutics_logo_color_print-01_square.jpg){width=10%} ASC Therapeutics
 
 Milpitas, CA
 
-Present - 2021
+2022 - 2021
 
 ::: concise
 ● Quantify and characterize **CRISPR gene modifications**, with both custom and open-source tools for genomic data analysis.
@@ -133,8 +151,6 @@ Present - 2021
 ● Examine concordance and sensitivity of five open-source CRISPR off-target detection methods (**CALITAS**, **CHANGE-Seq**, **CRISPResso**, **GUIDE-Seq**, and **Cas-OFFinder**).
 
 ● Streamline high-performace analyses for bench scientists by constructing **custom data pipelines**.
-
-● Spearhead implementation of version control, and programming best practices.
 :::
 
 ### Biomarker Data Analyst II
@@ -185,11 +201,7 @@ South San Francisco, CA
 
 <i class="fab fa-markdown"></i> `Markdown`
 
-![C++](https://www.pikpng.com/pngl/m/489-4892167_c-logo-png-transparent-c-language-logo-png.png){width=7%} `C++`
-
-<i class="fab fa-css3-alt"></i> `CSS`
-
-<i class="fab fa-html5"></i> `HTML`
+![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/c%2B%2Blogo.png){width=8%} `C++`
 
 ![MATLAB](https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png){width=7%} `MATLAB`
 
@@ -238,12 +250,26 @@ Miami, FL
 
 ::: aside
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+I am an active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
 
-This resume was made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
- 
-Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.pdf).
+I have participated in several bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
+
+*SF/Bay AI Developers Group*
+
+*San Jose Data Science and AI/ML Meetup*
+
+*Hacker Dojo*
+
+*Seattle Sequencing*
+
+#### EXTRA-CURRICULAR
+
+San Francisco chapter of *Big Gay Frisbee.* 2018 - Present.
+
+Salsa dancing at *In Lak’ech Dance Academy.* 2019.
+
+*Seattle Quake* rugby club. 2016 - 2017.
+
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -291,30 +317,6 @@ University of Miami
 Miami, FL
 
 2016
-
-::: aside
-
-I am an active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
-
-I have participated in several bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
-
-*SF/Bay AI Developers Group*
-
-*San Jose Data Science and AI/ML Meetup*
-
-*Hacker Dojo*
-
-*Seattle Sequencing*
-
-#### EXTRA-CURRICULAR
-
-San Francisco chapter of *Big Gay Frisbee.* 2018 - Present.
-
-Salsa dancing at *In Lak’ech Dance Academy.* 2019.
-
-*Seattle Quake* rugby club. 2016 - 2017.
-
-:::
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
@@ -388,4 +390,14 @@ Miami, FL
 
 ::: concise
 General Biology II facilitator for two concurrent PLTL courses
+:::
+
+::: aside
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
+ 
+Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.pdf).
 :::
