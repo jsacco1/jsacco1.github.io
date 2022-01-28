@@ -89,11 +89,11 @@ Key Skills {#skills}
 
 - Expert programming in **Python**, **R**, and **shell scripting**
 
-- Extensive experience with **NGS data analyses** (differential gene expression, gene set enrichment, variant annotation) and workflow development
+- Extensive experience with **statistical, NGS data analyses** (differential gene expression, gene set enrichment, variant annotation) and workflow development
 
 - Proficient in several _in silico_ **CRISPR gene editing** modules
 
-- Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, BEDtools, SAMtools, **DESeq**, **edgeR,** Hail)
+- Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, IGV, Galaxy, BEDtools, SAMtools, **DESeq**, **edgeR,** Hail)
 
 Main
 ================================================================================
@@ -123,16 +123,16 @@ Experience {data-icon=briefcase}
 
 Berkeley, CA
 
-2022 - Present
+Present - 2022
 
 ::: concise
-● Design and implement bioinformatic pipelines to handle next-generation sequencing data from both prokaryotic and eukaryotic samples.
+● Design and implement **bioinformatic pipelines to handle NGS data** from both prokaryotic and eukaryotic samples.
 
-● Analyze and present both genomic (DNA-seq) and transcriptomic (RNA-seq) datasets using R.
+● Analyze and present both **genomic (DNA-seq) and transcriptomic (RNA-seq)** datasets using R.
 
-● Perform differential gene expression analyses on RNA-seq data.
+● Perform **differential gene expression** analyses on RNA-seq data.
 
-● Map genome deletions/insertions/mutations.
+● Map genome deletions/insertions/mutations to chromosomal locations.
 :::
 
 ### Bioinformatics Scientist
