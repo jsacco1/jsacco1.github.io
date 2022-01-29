@@ -101,8 +101,6 @@ Main
 **James Sacco** {#title}
 --------------------------------------------------------------------------------
 
-**They/Them/Theirs**
-
 **Bioinformatics Scientist**  
 **Doudna Lab**  
 **Howard Hughes Medical Institute, University of California, Berkeley**  
@@ -119,7 +117,7 @@ Experience {data-icon=briefcase}
 
 ### Bioinformatics Scientist
 
-![HHMI](https://prl.natsci.msu.edu/sites/_prl/assets/Image/About_PRL/HHMI-logo-xs.jpg){width=10%} Howard Hughes Medical Institute, University of California, Berkeley 
+![HHMI](https://www.hhmi.org/sites/default/files/Logos/JPG/HHMI-logo-white.jpg){width=10%} Howard Hughes Medical Institute, University of California, Berkeley 
 
 Berkeley, CA
 
@@ -201,7 +199,7 @@ South San Francisco, CA
 
 <i class="fab fa-markdown"></i> `Markdown`
 
-![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/c%2B%2Blogo.png){width=8%} `C++`
+![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e36282461196e0b3346cafc397144f94c453efbf/images/c__logo_svg.svg){width=10%} `C++`
 
 ![MATLAB](https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png){width=7%} `MATLAB`
 
