@@ -102,7 +102,7 @@ Main
 --------------------------------------------------------------------------------
 
 **Bioinformatics Scientist**  
-**Doudna Lab**  
+**[Doudna Lab](https://doudnalab.org/)**  
 **Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley**  
 **Berkeley, CA, 94720**
 
@@ -292,7 +292,15 @@ Miami, FL
 <i class="fas fa-laptop"></i> Professional Development
 --------------------------------------------------------------------------------
 
-### Introduction to Genomic Technologies
+### [Python for Data Science: Fundamentals Part I Course](http://links.iterable.com/u/click?_t=4a16705ff7784260b1b139ad7ac93ebf&_m=34ed48a7273845da8e2eebf7f103638a&_e=A8KtzNG8hQmSIiZw8a6IRZSe870W1l30iT3FAuPZkLT4brzWYfnDAAktVxaO27-kZSk2JLhvIAXpJ4YxVC9PYPu-CGfFa6kbwEUHOvXHyHZBvZ6zW5Kpg2rsCwx-xdk9DoKhhPMaGihG_0rexFh258pNbM0x2TtSTF3esfilJpopBdTrEPPcFQwb6nd6GPseq8ilYPk7Mm4pOxPyR6sH1kjz-Jn91VF1iHy52kN8-Zg1z22hANXI-hk7BxqpYBE-n5_NkFxST4dQ2SyxlwLL-cwBG6bd1CTpxuYYOiw-eJY%3D)
+
+Dataquest.io
+
+Online
+
+2022
+
+### [Introduction to Genomic Technologies](https://coursera.org/share/349b7ec7b038591b3ea316ef9d57f91c)
 
 Johns Hopkins University
 
@@ -300,7 +308,7 @@ Online
 
 2021
 
-### Statistics for Genomic Data Science
+### [Statistics for Genomic Data Science](https://coursera.org/share/0fbdae3d36a310f4653b95ca375d0009)
 
 Johns Hopkins University
 
@@ -308,7 +316,7 @@ Online
 
 2021
 
-### Software Carpentry for R and UNIX
+### [Software Carpentry for R and UNIX](https://mkcor.github.io/2016-03-14-university-of-miami/)
 
 University of Miami
 
@@ -319,7 +327,7 @@ Miami, FL
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Regulating Axonal Responses to Injury: The Intersection between Signaling Pathways Involved in Axon Myelination and The Inhibition of Axon Regeneration. 
+### [Regulating Axonal Responses to Injury: The Intersection between Signaling Pathways Involved in Axon Myelination and The Inhibition of Axon Regeneration.](https://www.frontiersin.org/articles/10.3389/fnmol.2016.00033/full) 
 
 *Frontiers in Molecular Neuroscience.* 2016 Jun 8;9:33.   
 
@@ -332,7 +340,7 @@ Rao S.N., Pearse D.D. **Manuscript Editor**
 Conference Papers {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Prediction of disease severity in metachromatic leukodystrophy using measures of protein activity and a novel phenotype matrix. 
+### [Prediction of disease severity in metachromatic leukodystrophy using measures of protein activity and a novel phenotype matrix.](https://www.abstractsonline.com/pp8/#!/9070/presentation/2893) 
 
 ![American Society of Human Genetics](https://ctsi.mcw.edu/images/ashg-logo-713x401.png){width=10%} *American Society of Human Genetics Virtual Meeting.* [Poster] **[Forthcoming on bioRxiv.org]**
 
@@ -355,9 +363,9 @@ Pacific Grove, CA
 <i class="fas fa-laptop"></i> Research Projects
 --------------------------------------------------------------------------------
 
-### Characterization of glycan substrates accumulating in GM1 gangliosidosis
+### [Characterization of glycan substrates accumulating in GM1 gangliosidosis](https://pubmed.ncbi.nlm.nih.gov/31720227/)
 
-*Molecular Genetics and Metabolism Reports.* 2019. 21, p.100524. doi:10.1016/j.ymgmr.2019.100524
+*Molecular Genetics and Metabolism Reports.* 2019. 21, p.100524.
 
 N/A
 
@@ -365,9 +373,9 @@ N/A
 
 Lawrence R., et al.
 
-### Utilizing ExAC to assess the hidden contribution of variants of unknown significance to Sanfilippo Type B incidence.
+### [Utilizing ExAC to assess the hidden contribution of variants of unknown significance to Sanfilippo Type B incidence.](https://pubmed.ncbi.nlm.nih.gov/29979746/)
 
-*PLoS One.* 2018. 13(7):e0200008. doi:10.1371/journal.pone.0200008
+*PLoS One.* 2018. 13(7):e0200008.
 
 N/A
 
@@ -378,7 +386,7 @@ Clark W.T., et al.
 Teaching {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Peer-Led Team Learning (PLTL)
+### [Peer-Led Team Learning](https://loadpltl.fiu.edu/)
 
 *Florida International University* 
 
