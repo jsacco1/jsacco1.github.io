@@ -103,7 +103,7 @@ Main
 
 **Bioinformatics Scientist**  
 **Doudna Lab**  
-**Howard Hughes Medical Institute, University of California, Berkeley**  
+**Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley**  
 **Berkeley, CA, 94720**
 
 Independent, self-motivated bioinformatics scientist, with **six years** of combined experience in cancer immunotherapy and **gene therapy**. Specialist in computational biology of **CRISPR gene editing**. An analytical thinker and quick learner, with experience in next-generation sequencing **(NGS)** methods, such as **RNA-Seq**, and development of **reproducible, robust pipelines.** 
@@ -117,7 +117,7 @@ Experience {data-icon=briefcase}
 
 ### Bioinformatics Scientist
 
-![HHMI](https://www.hhmi.org/sites/default/files/Logos/JPG/HHMI-logo-white.jpg){width=10%} Howard Hughes Medical Institute, University of California, Berkeley 
+![HHMI](https://www.hhmi.org/sites/default/files/Logos/JPG/HHMI-logo-white.jpg){width=10%} Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley 
 
 Berkeley, CA
 
@@ -135,7 +135,7 @@ Present - 2022
 
 ### Bioinformatics Scientist
 
-![ASC](https://medicalnewsupdates.com/wp-content/uploads/2021/07/asc_therapeutics_logo_color_print-01_square.jpg){width=10%} ASC Therapeutics
+![ASC](https://medicalnewsupdates.com/wp-content/uploads/2021/07/asc_therapeutics_logo_color_print-01_square.jpg){width=10%} ASC Therapeutics (Contract)
 
 Milpitas, CA
 
@@ -199,9 +199,9 @@ South San Francisco, CA
 
 <i class="fab fa-markdown"></i> `Markdown`
 
-![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/6a7253f9cebbfdc92c39129948bbd27ef010c189/images/cpp_grey_svg.svg){width=7%} `C++`
+![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++`
 
-![MATLAB](https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png){width=7%} `MATLAB`
+![MATLAB](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/a52737b1c6e96042f1974d3aa700c6df19edcee0/images/matlab-444444.svg){width=7%} `MATLAB`
 
 #### LANGUAGES
 
