@@ -102,7 +102,7 @@ Main
 --------------------------------------------------------------------------------
 
 **Bioinformatics Scientist**  
-**[Doudna Lab](https://doudnalab.org/)**  
+**Doudna Lab**  
 **Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley**  
 **Berkeley, CA, 94720**
 
