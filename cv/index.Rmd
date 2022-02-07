@@ -93,7 +93,9 @@ Key Skills {#skills}
 
 - Proficient in several _in silico_ **CRISPR gene editing** modules
 
-- Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, IGV, Galaxy, BEDtools, SAMtools, **DESeq**, **edgeR,** Hail)
+- Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, IGV, Galaxy, BEDtools, SAMtools, Hail)
+
+![BioC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/bd6be9135636262a3bcc2b6abfadc49c85777393/images/Bioconductor_svg.svg){width=10%}   Bioconductor (e.g., **DESeq2**, **edgeR**, **AnnotationDbi**)
 
 Main
 ================================================================================
@@ -186,7 +188,6 @@ South San Francisco, CA
 
 #### PROGRAMMING SKILLS
 
-
 <i class="fab fa-r-project"></i> `R`
 
 <i class="fab fa-python"></i> `Python`
@@ -198,6 +199,8 @@ South San Francisco, CA
 <i class="fab fa-github"></i> `GitHub`
 
 <i class="fab fa-markdown"></i> `Markdown`
+
+<i class="far fa-chart-bar"></i> `Dash`
 
 ![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++`
 
@@ -250,7 +253,7 @@ Miami, FL
 
 I am an active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
 
-I have participated in several bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
+I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
 
 *SF/Bay AI Developers Group*
 
@@ -262,11 +265,11 @@ I have participated in several bioinformatics and software workshops and *Meetup
 
 #### EXTRA-CURRICULAR
 
-San Francisco chapter of *Big Gay Frisbee.* 2018 - Present.
+Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
 
-Salsa dancing at *In Lak’ech Dance Academy.* 2019.
+Salsa dance class at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
 
-*Seattle Quake* rugby club. 2016 - 2017.
+Rugby Union at *Seattle Quake*. Seattle, WA. 2016 -- 2017.
 
 :::
 
