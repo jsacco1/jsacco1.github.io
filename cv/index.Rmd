@@ -95,7 +95,7 @@ Key Skills {#skills}
 
 - Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, IGV, Galaxy, BEDtools, SAMtools, Hail)
 
-![BioC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/bd6be9135636262a3bcc2b6abfadc49c85777393/images/Bioconductor_svg.svg){width=10%}   Bioconductor (e.g., **DESeq2**, **edgeR**, **AnnotationDbi**)
+![BioC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/bd6be9135636262a3bcc2b6abfadc49c85777393/images/Bioconductor_svg.svg){width=12%}   Bioconductor (**DESeq2**, **edgeR**, AnnotationDbi)
 
 Main
 ================================================================================
@@ -236,8 +236,7 @@ San Rafael, CA
 
 ### Research Associate
 
-![UM](https://1000logos.net/wp-content/uploads/2017/07/University-of-Miami-Logo.png){width=10%} University of Miami Miller School of Medicine,
-The Miami Project to Cure Paralysis, Pearse Lab
+![UM](https://1000logos.net/wp-content/uploads/2017/07/University-of-Miami-Logo.png){width=10%} The Miami Project to Cure Paralysis, The Miller School of Medicine, University of Miami
 
 Miami, FL
 
@@ -267,9 +266,9 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 
 Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
 
-Salsa dance class at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
+Salsa dance at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
 
-Rugby Union at *Seattle Quake*. Seattle, WA. 2016 -- 2017.
+Rugby at *Seattle Quake*. Seattle, WA. 2016 -- 2017.
 
 :::
 
@@ -376,7 +375,7 @@ N/A
 
 Lawrence R., et al.
 
-### [Utilizing ExAC to assess the hidden contribution of variants of unknown significance to Sanfilippo Type B incidence.](https://pubmed.ncbi.nlm.nih.gov/29979746/)
+### [Utilizing ExAC to assess the hidden contribution of variants of unknown significance to Sanfilippo Type B incidence](https://pubmed.ncbi.nlm.nih.gov/29979746/)
 
 *PLoS One.* 2018. 13(7):e0200008.
 
@@ -385,6 +384,16 @@ N/A
 2018
 
 Clark W.T., et al.
+
+### [Phosphodiesterase Inhibitors as a Therapeutic Approach to Neuroprotection and Repair](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5412282/)
+
+*International Journal of Molecular Sciences.* 2017. 18(4): 696.
+
+N/A
+
+2017
+
+Knott E.P., et al.
 
 Teaching {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
