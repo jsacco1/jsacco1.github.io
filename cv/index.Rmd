@@ -104,9 +104,9 @@ Main
 --------------------------------------------------------------------------------
 
 **Bioinformatics Scientist**  
-**Doudna Lab**  
-**Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley**  
-**Berkeley, CA, 94720**
+**Department of Gene and Cell Therapy**  
+**ASC Therapeutics**  
+**Milpitas, CA 95035**
 
 Independent, self-motivated bioinformatics scientist, with **six years** of combined experience in cancer immunotherapy and **gene therapy**. Specialist in computational biology of **CRISPR gene editing**. An analytical thinker and quick learner, with experience in next-generation sequencing **(NGS)** methods, such as **RNA-Seq**, and development of **reproducible, robust pipelines.** 
 
@@ -116,24 +116,6 @@ Integrated genotype-phenotype data to predict disease severity. Developed **mach
 
 Experience {data-icon=briefcase}
 --------------------------------------------------------------------------------
-
-### Bioinformatics Scientist
-
-![HHMI](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/logo.png){width=10%} Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley 
-
-Berkeley, CA
-
-Present - 2022
-
-::: concise
-● Design and implement **bioinformatic pipelines to handle NGS data** from both prokaryotic and eukaryotic samples.
-
-● Analyze and present both **genomic (DNA-seq) and transcriptomic (RNA-seq)** datasets using R.
-
-● Perform **differential gene expression** analyses on RNA-seq data.
-
-● Map genome deletions/insertions/mutations to chromosomal locations.
-:::
 
 ### Bioinformatics Scientist
 
@@ -262,14 +244,6 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 
 *Seattle Sequencing*
 
-#### EXTRA-CURRICULAR
-
-Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
-
-Salsa dance at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
-
-Rugby at *Seattle Quake*. Seattle, WA. 2016 -- 2017.
-
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -325,6 +299,7 @@ University of Miami
 Miami, FL
 
 2016
+
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
@@ -384,6 +359,18 @@ N/A
 2018
 
 Clark W.T., et al.
+
+::: aside
+
+#### EXTRA-CURRICULAR
+
+Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
+
+Salsa dance at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
+
+Rugby at *Seattle Quake*. Seattle, WA. 2016 -- 2017.
+
+:::
 
 ### [Phosphodiesterase Inhibitors as a Therapeutic Approach to Neuroprotection and Repair](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5412282/)
 
