@@ -404,7 +404,7 @@ General Biology II facilitator for two concurrent PLTL courses
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
+This document was made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
  
 Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.pdf).
 :::
