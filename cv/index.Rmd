@@ -87,15 +87,17 @@ Contact Info {#contact}
 Key Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Expert programming in **Python**, **R**, and **shell scripting**
+- Expert programming in **Python**, **R**, and **Linux shell scripting**
 
-- Extensive experience with **statistical, NGS data analyses** (differential gene expression, gene set enrichment, variant annotation) and workflow development
+- Extensive experience with **statistical, NGS data analyses** (differential expression, gene set enrichment, variant annotation), and workflow development
 
-- Proficient in several _in silico_ **CRISPR gene editing** modules
+- Proficiency with _in silico_ **CRISPR gene editing** modules
+
+- High scientific rigor & eagerness to teach and learn about new computational methods and biology
 
 - Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, IGV, Galaxy, BEDtools, SAMtools, Hail)
 
-![BioC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/bd6be9135636262a3bcc2b6abfadc49c85777393/images/Bioconductor_svg.svg){width=12%}   Bioconductor (**DESeq2**, **edgeR**, AnnotationDbi)
+![BioC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/bd6be9135636262a3bcc2b6abfadc49c85777393/images/Bioconductor_svg.svg){width=12%}   Bioconductor (**DESeq2**, **edgeR**)
 
 Main
 ================================================================================
@@ -123,7 +125,7 @@ Experience {data-icon=briefcase}
 
 Milpitas, CA
 
-2022 - 2021
+Present - 2021
 
 ::: concise
 ● Quantify and characterize **CRISPR gene modifications**, with both custom and open-source tools for genomic data analysis.
@@ -196,8 +198,7 @@ South San Francisco, CA
 
 **Spanish:** Bilingual Proficiency
 
-
-I am an active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
+Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
 
 I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
 
