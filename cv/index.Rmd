@@ -132,7 +132,7 @@ Milpitas, CA
 
 ● Examine concordance and sensitivity of five open-source CRISPR off-target detection methods (**CALITAS**, **CHANGE-Seq**, **CRISPResso**, **GUIDE-Seq**, and **Cas-OFFinder**).
 
-● Streamline high-performace analyses for bench scientists by constructing **custom data pipelines**.
+● Streamline high-performance analyses for bench scientists by constructing **custom data pipelines**.
 :::
 
 ### Biomarker Data Analyst II
