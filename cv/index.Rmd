@@ -194,6 +194,21 @@ South San Francisco, CA
 
 **Spanish:** Bilingual Proficiency
 
+
+I am an active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
+
+I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
+
+*SF/Bay AI Developers Group*
+
+*San Jose Data Science and AI/ML Meetup*
+
+*Hacker Dojo*
+
+*Seattle Sequencing*
+
+:::
+
 :::
 
 ### Data Curator, Bioinformatics Analyst 
@@ -228,22 +243,6 @@ Miami, FL
 ●	Mentored research associates in developing bioinformatic skills, specifically in **multiple sequence alignment** and **standard molecular biological protocols** (restriction enzyme digestion, gel electrophoresis, spectrophotometry).
 
 ●	Identified over forty putative **conserved vertebrate phosphodiesterase proteins**, by using multiple sequence alignment and genomic evidence.
-:::
-
-::: aside
-
-I am an active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
-
-I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
-
-*SF/Bay AI Developers Group*
-
-*San Jose Data Science and AI/ML Meetup*
-
-*Hacker Dojo*
-
-*Seattle Sequencing*
-
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
