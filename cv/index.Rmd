@@ -132,7 +132,9 @@ Milpitas, CA
 
 ● Examine concordance and sensitivity of five open-source CRISPR off-target detection methods (**CALITAS**, **CHANGE-Seq**, **CRISPResso**, **GUIDE-Seq**, and **Cas-OFFinder**).
 
-● Streamline high-performance analyses for bench scientists by constructing **custom data pipelines**.
+● Streamline high-performance analyses for bench scientists by constructing **custom data pipelines**, **command line tools**, and **user interfaces**.
+
+● Generate reproducible reports for publication-quality manuscripts.
 :::
 
 ### Biomarker Data Analyst II
@@ -367,7 +369,7 @@ Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
 
 Salsa dance at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
 
-Rugby at *Seattle Quake*. Seattle, WA. 2016 -- 2017.
+Rugby at *Seattle Quake RFC*. Seattle, WA. 2016 -- 2017.
 
 :::
 
