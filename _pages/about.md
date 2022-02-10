@@ -6,11 +6,18 @@ header:
 ---
 Welcome to my page!
 
-I’m a San Francisco-based bioinformatics scientist, experienced in Python and R programming, especially in support of next-generation sequencing (NGS) and CRISPR gene editing experiments. I most enjoy working on RNA-Seq data, and am proficient in several workflows: differential gene expression, gene set enrichment, and genomic variant annotation. I have supported clinical trials for cancer immunotherapy (inaccurately called "cancer vaccines") and gene therapy, and insights into biomarker operations. 
+I’m a San Francisco-based bioinformatics scientist, experienced in Python and R programming, especially in support of CRISPR gene editing and next-generation sequencing (NGS) data analysis. I most enjoy working on high-throughput transcriptomic (RNA-Seq) data. I am proficient in several workflows, including: differential gene expression, gene set enrichment, sequence alignment, and genomic variant annotation. I have supported clinical trials for cancer immunotherapy (inaccurately called "cancer vaccines") and gene therapy, and insights into biomarker operations. In my spare time, I enjoy classical music, good books, ultimate frisbee, and exploring the Bay Area.
 
-As I enjoy working on projects together, please feel free to reach out for collaboration! 
+As I enjoy working on projects together, please feel free to reach out to collaborate! 
 
 Thank you,
 
 James
-(they/them/theirs)
+
+(they/them/theirs; ze*/zir/zem)
+
+
+\*: pronounced "zee"
+
+
+
