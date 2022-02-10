@@ -1,5 +1,5 @@
 ---
-title: "cv"
+title: "James Sacco's CV"
 author: James Sacco
 date: "`r Sys.Date()`"
 params:
@@ -11,6 +11,13 @@ output:
     self_contained: true
 knit: pagedown::chrome_print 
 ---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+```
 
 <script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
 
@@ -72,7 +79,14 @@ a:hover {
 Aside
 ================================================================================
 
-<i class="fas fa-download"></i> <a href="https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.pdf" target="_blank">Download the PDF on Github.</a>
+```{r}
+#add side note where to find online version
+if(params$pdf_mode){
+cat("View this CV online with links at https://jsacco1.github.io/cv/")
+} else {
+ cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://raw.githubusercontent.com/jsacco1.github.io/blob/master/cv/index.pdf)")
+}
+```
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -236,7 +250,7 @@ San Rafael, CA
 
 ### Research Associate
 
-![UM](https://1000logos.net/wp-content/uploads/2017/07/University-of-Miami-Logo.png){width=10%} The Miami Project to Cure Paralysis, The Miller School of Medicine, University of Miami
+![UM](https://1000logos.net/wp-content/uploads/2017/07/University-of-Miami-Logo.png){width=10%} Pearse Lab: The Miami Project to Cure Paralysis, The Miller School of Medicine, University of Miami
 
 Miami, FL
 
@@ -384,7 +398,24 @@ N/A
 
 Knott E.P., et al.
 
-Teaching {data-icon=chalkboard-teacher}
+Presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Data Visualization of RNA-Seq Differential Expression Analysis with DESeq2
+
+![HHMI](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/logo.png){width=10%} Doudna Lab: Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley
+
+Berkeley, CA
+
+2022
+
+:::concise
+Topics: Introduction to RNA-Seq, Standard Workflows with DESeq2, Reference-Based Assembly, Exploratory Data Analysis, Statistical Analysis, Data Visualization, Gene Set Enrichment, Variant Annotation
+
+●	Presented publication-quality RNA-Seq data summaries and representations to post-doctoral associates 
+:::
+
+Teaching {data-icon=book}
 --------------------------------------------------------------------------------
 
 ### [Peer-Led Team Learning](https://loadpltl.fiu.edu/)
@@ -404,7 +435,7 @@ General Biology II facilitator for two concurrent PLTL courses
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This document was made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
+Made with 💘 using R [**pagedown**](https://github.com/rstudio/pagedown).
  
 Last update: `r Sys.Date()`.The most recent version of this resume is [available here](https://github.com/jsacco1/jsacco1.github.io/blob/master/cv/index.pdf).
 :::
