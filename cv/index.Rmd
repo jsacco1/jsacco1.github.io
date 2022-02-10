@@ -4,7 +4,7 @@ author: James Sacco
 date: "`r Sys.Date()`"
 params:
   pdf_mode:
-    value: false
+    value: true
 output:
   pagedown::html_resume:
     self_contained: true
