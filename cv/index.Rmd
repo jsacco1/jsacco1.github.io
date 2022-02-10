@@ -4,12 +4,10 @@ author: James Sacco
 date: "`r Sys.Date()`"
 params:
   pdf_mode:
-    value: true
+    value: false
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-knit: pagedown::chrome_print 
 ---
 
 ```{r, include=FALSE}
@@ -82,7 +80,7 @@ Aside
 ```{r}
 #add side note where to find online version
 if(params$pdf_mode){
-cat("View this CV online with links at https://jsacco1.github.io/cv/")
+  cat("View this CV online with links at https://jsacco1.github.io/cv/")
 } else {
  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://raw.githubusercontent.com/jsacco1.github.io/blob/master/cv/index.pdf)")
 }
