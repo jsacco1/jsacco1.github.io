@@ -82,7 +82,7 @@ Aside
 if(params$pdf_mode){
   cat("View this CV online with links at https://jsacco1.github.io/cv/")
 } else {
- cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://raw.githubusercontent.com/jsacco1.github.io/blob/master/cv/index.pdf)")
+ cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/jsacco1/jsacco1.github.io/raw/master/cv/index.pdf)")
 }
 ```
 
@@ -401,7 +401,7 @@ Presentations {data-icon=chalkboard-teacher}
 
 ### Data Visualization of RNA-Seq Differential Expression Analysis with DESeq2
 
-![HHMI](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/logo.png){width=10%} Doudna Lab: Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley
+![HHMI](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/logo.png){width=10%} [Doudna Lab](https://doudnalab.org/): Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley
 
 Berkeley, CA
 
