@@ -284,7 +284,9 @@ Miami, FL
 
 ### [Bulk and Single Cell Transcriptomics Training Program](https://learn.omicslogic.com/programs/bulk-and-single-cell-transcriptomics-training)
 
-OmicsLogic, Pine Biotech, Tauber Bioinformatics Research Center
+OmicsLogic
+
+Pine Biotech, Tauber Bioinformatics Research Center
 
 Online
 
