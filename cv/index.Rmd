@@ -282,6 +282,14 @@ Miami, FL
 <i class="fas fa-laptop"></i> Professional Development
 --------------------------------------------------------------------------------
 
+### [Bulk and Single Cell Transcriptomics Training Program](https://learn.omicslogic.com/programs/bulk-and-single-cell-transcriptomics-training)
+
+OmicsLogic, Pine Biotech, Tauber Bioinformatics Research Center
+
+Online
+
+2022
+
 ### [Python for Data Science: Fundamentals Part I Course](http://links.iterable.com/u/click?_t=4a16705ff7784260b1b139ad7ac93ebf&_m=34ed48a7273845da8e2eebf7f103638a&_e=A8KtzNG8hQmSIiZw8a6IRZSe870W1l30iT3FAuPZkLT4brzWYfnDAAktVxaO27-kZSk2JLhvIAXpJ4YxVC9PYPu-CGfFa6kbwEUHOvXHyHZBvZ6zW5Kpg2rsCwx-xdk9DoKhhPMaGihG_0rexFh258pNbM0x2TtSTF3esfilJpopBdTrEPPcFQwb6nd6GPseq8ilYPk7Mm4pOxPyR6sH1kjz-Jn91VF1iHy52kN8-Zg1z22hANXI-hk7BxqpYBE-n5_NkFxST4dQ2SyxlwLL-cwBG6bd1CTpxuYYOiw-eJY%3D)
 
 Dataquest.io
