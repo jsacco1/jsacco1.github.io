@@ -16,7 +16,7 @@ James
 
 pronouns: ze*/zir/zem; they/them/theirs 
 
-email:jsacco001@gmail.com
+email: jsacco001@gmail.com
 
 \*: pronounced "zee"
 
