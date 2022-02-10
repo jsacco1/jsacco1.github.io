@@ -16,7 +16,8 @@ Thank you,
 
 James
 
-pronouns: ze*/zir/zem; they/them/theirs 
+pronouns: ze*/zir/zem; they/them/theirs
+
 email: jsacco001@gmail.com
 
 \*: pronounced "zee"
