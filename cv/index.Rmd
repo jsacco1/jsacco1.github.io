@@ -82,7 +82,7 @@ Aside
 if(params$pdf_mode){
   cat("View this CV online with links at https://jsacco1.github.io/cv/")
 } else {
- cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/jsacco1/jsacco1.github.io/raw/master/cv/index.pdf)")
+ cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/jsacco1/jsacco1.github.io/raw/master/cv/James_Sacco_CV.pdf)")
 }
 ```
 
