@@ -407,7 +407,7 @@ Knott E.P., et al.
 Presentations {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Data Visualization of RNA-Seq Differential Expression Analysis with DESeq2
+### [Data Visualization of RNA-Seq Differential Expression Analysis with DESeq2](https://github.com/jsacco1/rnaseq/blob/main/Standard%20RNA-Seq%20Plots%20and%20Graphs.pptx)
 
 ![HHMI](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/logo.png){width=10%} [Doudna Lab](https://doudnalab.org/): Howard Hughes Medical Institute, Department of Molecular and Cell Biology, University of California, Berkeley
 
