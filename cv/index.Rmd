@@ -82,7 +82,7 @@ Aside
 if(params$pdf_mode){
   cat("View this CV online with links at https://jsacco1.github.io/cv/")
 } else {
- cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/jsacco1/jsacco1.github.io/raw/master/cv/James_Sacco_CV.pdf)")
+ cat("[<i class='fas fa-download'></i> Download the PDF of this CV](https://github.com/jsacco1/jsacco1.github.io/raw/master/cv/James_Sacco_CV.pdf)")
 }
 ```
 
@@ -174,14 +174,6 @@ South San Francisco, CA
 
 2019 - 2018 
 
-::: concise
-●	Collaborated with AI engineers to create an ETL pipeline for **multi-modal survival prediction and patient stratification**, by using Python ML and R to integrate **gene panel** and **RNA-Seq data**.
-
-●	Designed ETL data pipeline for integration of **real-world EHRs** into **deep learning** module, using Python, SQL, and Apache Spark.
-
-●	Organized and managed close coordination of Artificial Intelligence, data management, and DevOps functions, to bring **clinical machine learning** from prototype to production.
-:::
-
 ::: aside
 
 #### PROGRAMMING SKILLS
@@ -204,26 +196,14 @@ South San Francisco, CA
 
 ![MATLAB](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/a52737b1c6e96042f1974d3aa700c6df19edcee0/images/matlab-444444.svg){width=7%} `MATLAB`
 
-#### LANGUAGES
-
-**English:** Native
-
-**Spanish:** Bilingual Proficiency
-
-Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
-
-I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
-
-*SF/Bay AI Developers Group*
-
-*San Jose Data Science and AI/ML Meetup*
-
-*Hacker Dojo*
-
-*Seattle Sequencing*
-
 :::
 
+::: concise
+●	Collaborated with AI engineers to create an ETL pipeline for **multi-modal survival prediction and patient stratification**, by using Python ML and R to integrate **gene panel** and **RNA-Seq data**.
+
+●	Designed ETL data pipeline for integration of **real-world EHRs** into **deep learning** module, using Python, SQL, and Apache Spark.
+
+●	Organized and managed close coordination of Artificial Intelligence, data management, and DevOps functions, to bring **clinical machine learning** from prototype to production.
 :::
 
 ### Data Curator, Bioinformatics Analyst 
@@ -281,6 +261,28 @@ Miami, FL
 
 <i class="fas fa-laptop"></i> Professional Development
 --------------------------------------------------------------------------------
+
+:::aside
+
+Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
+
+I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
+
+*SF/Bay AI Developers Group*
+
+*San Jose Data Science and AI/ML Meetup*
+
+*Hacker Dojo*
+
+*Seattle Sequencing*
+
+#### LANGUAGES
+
+**English:** Native
+
+**Spanish:** Bilingual Proficiency
+
+:::
 
 ### [Bulk and Single Cell Transcriptomics Training Program](https://learn.omicslogic.com/programs/bulk-and-single-cell-transcriptomics-training)
 
