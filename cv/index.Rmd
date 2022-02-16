@@ -94,22 +94,24 @@ Contact Info {#contact}
 - <i class="fa fa-github"></i> [github.com](https://github.com/jsacco1)
 - <i class="fa fa-linkedin"></i> [linkedin.com](https://www.linkedin.com/in/james-sacco/)
 - <i class="fa fa-phone"></i> +1 (786)-473-9993
-- For more information, please contact me via email.
+
+For more information, please contact me via email
 
 Key Skills {#skills}
 --------------------------------------------------------------------------------
 
 - Expert programming in **Python**, **R**, and **Linux shell scripting**
 
-- Extensive experience with **statistical, NGS data analyses** (differential expression, gene set enrichment, variant annotation), and workflow development
+- Extensive experience with **statistical, NGS data analyses** and public genomic repositories
 
 - Proficiency with _in silico_ **CRISPR gene editing** modules
 
-- High scientific rigor & eagerness to teach and learn about new computational methods and biology
+- Machine learning and applied statistics
 
-- Familiar with public **genomic repositories** (NCBI, Ensembl); genomic data types and sequencing tools (Illumina, IGV, Galaxy, BEDtools, SAMtools, Hail)
+- Data engineering & pipeline development (AWS, Airflow, PySpark)
 
-![BioC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/bd6be9135636262a3bcc2b6abfadc49c85777393/images/Bioconductor_svg.svg){width=12%}   Bioconductor (**DESeq2**, **edgeR**)
+- High scientific rigor and eagerness to teach and learn about new computational methods and biology
+
 
 Main
 ================================================================================
@@ -122,13 +124,13 @@ Main
 **ASC Therapeutics**  
 **Milpitas, CA 95035**
 
-Independent, self-motivated bioinformatics scientist, with **six years** of combined experience in cancer immunotherapy and **gene therapy**. Specialist in computational biology of **CRISPR gene editing**. An analytical thinker and quick learner, with experience in next-generation sequencing **(NGS)** methods, such as **RNA-Seq**, and development of **reproducible, robust pipelines.** 
+Self-motivated **bioinformatics programming professional** with **six years** of experience in support of **rare disease and cancer therapies**. Areas of expertise include **transcriptomics**, **CRISPR gene editing**, development of robust, reproducible **data workflows** for scientific user interfaces. 
 
-Integrated genotype-phenotype data to predict disease severity. Developed **machine learning** applications to analyze population-scale genomics and real-world patient data.
+An analytical thinker and quick learner, with a broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease progression and epidemiology**.
 
 --------------------------------------------------------------------------------
 
-Experience {data-icon=briefcase}
+Selected Experience {data-icon=briefcase}
 --------------------------------------------------------------------------------
 
 ### Bioinformatics Scientist
@@ -189,6 +191,8 @@ South San Francisco, CA
 <i class="fab fa-github"></i> `GitHub` ★★★★★
 
 <i class="fab fa-markdown"></i> `Markdown`★★★★★
+
+<i class="fas fa-database"></i> `SQL` ★★★
 
 <i class="far fa-chart-bar"></i> `Dash` ★★★
 
@@ -252,6 +256,18 @@ Stratford, NJ
 N/A
 
 "Hippocampal long-term potentiation in neurodegenerative disorders"
+
+Related coursework:
+
+●	Biochemistry
+
+●	Molecular Biology
+
+●	Cell Biology
+
+●	Microbiology
+
+●	Pharmacology
 
 ### Florida International University, The Honors College
 
@@ -359,6 +375,20 @@ Pacific Grove, CA
 
 2018
 
+::: aside
+
+#### EXTRA-CURRICULAR
+
+Avid supporter of the San Francisco Symphony and San Francisco Conservatory of Music
+
+Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
+
+Salsa dance at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
+
+Rugby at *Seattle Quake RFC*. Seattle, WA. 2016 -- 2017.
+
+:::
+
 **Sacco J.**, Clark W.T., Yu K., Wu K., LeBowitz J.H. 
 
 <i class="fas fa-laptop"></i> Research Projects
@@ -384,18 +414,6 @@ N/A
 
 Clark W.T., et al.
 
-::: aside
-
-#### EXTRA-CURRICULAR
-
-Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
-
-Salsa dance at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
-
-Rugby at *Seattle Quake RFC*. Seattle, WA. 2016 -- 2017.
-
-:::
-
 ### [Phosphodiesterase Inhibitors as a Therapeutic Approach to Neuroprotection and Repair](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5412282/)
 
 *International Journal of Molecular Sciences.* 2017. 18(4): 696.
@@ -406,7 +424,7 @@ N/A
 
 Knott E.P., et al.
 
-Presentations {data-icon=chalkboard-teacher}
+Oral Communications {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### [Data Visualization of RNA-Seq Differential Expression Analysis with DESeq2](https://github.com/jsacco1/rnaseq/blob/main/Standard%20RNA-Seq%20Plots%20and%20Graphs.pptx)
