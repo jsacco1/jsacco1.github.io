@@ -178,23 +178,23 @@ South San Francisco, CA
 
 #### PROGRAMMING SKILLS
 
-<i class="fab fa-r-project"></i> `R`
+<i class="fab fa-python"></i> `Python` ★★★★★
 
-<i class="fab fa-python"></i> `Python`
+<i class="fab fa-r-project"></i> `R` ★★★★
 
-<i class="fab fa-linux"></i> `Linux` 
+<i class="fab fa-linux"></i> `Linux` ★★★★
 
-<i class="fas fa-code-branch"></i> `Git`
+<i class="fas fa-code-branch"></i> `Git` ★★★★★
 
-<i class="fab fa-github"></i> `GitHub`
+<i class="fab fa-github"></i> `GitHub` ★★★★★
 
-<i class="fab fa-markdown"></i> `Markdown`
+<i class="fab fa-markdown"></i> `Markdown`★★★★★
 
-<i class="far fa-chart-bar"></i> `Dash`
+<i class="far fa-chart-bar"></i> `Dash` ★★★
 
-![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++`
+![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++` ★★★
 
-![MATLAB](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/a52737b1c6e96042f1974d3aa700c6df19edcee0/images/matlab-444444.svg){width=7%} `MATLAB`
+![MATLAB](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/a52737b1c6e96042f1974d3aa700c6df19edcee0/images/matlab-444444.svg){width=7%} `MATLAB` ★★★
 
 :::
 
