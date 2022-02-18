@@ -1,4 +1,5 @@
 # Knit the HTML version
+# set working directory to correct folder
 rmarkdown::render("index.Rmd",
                   params = list(pdf_mode = FALSE),
                   output_file = "index.html")

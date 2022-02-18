@@ -257,27 +257,6 @@ N/A
 
 "Hippocampal long-term potentiation in neurodegenerative disorders"
 
-Related coursework:
-
-●	Biochemistry
-
-●	Molecular Biology
-
-●	Cell Biology
-
-●	Microbiology
-
-●	Pharmacology
-
-### Florida International University, The Honors College
-
-BSc, Biological Sciences
-
-Miami, FL
-
-<i class="fas fa-laptop"></i> Professional Development
---------------------------------------------------------------------------------
-
 :::aside
 
 Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
@@ -299,6 +278,27 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 **Spanish:** Bilingual Proficiency
 
 :::
+
+Related coursework:
+
+●	Biochemistry
+
+●	Molecular Biology
+
+●	Cell Biology
+
+●	Microbiology
+
+●	Pharmacology
+
+### Florida International University, The Honors College
+
+BSc, Biological Sciences
+
+Miami, FL
+
+<i class="fas fa-laptop"></i> Professional Development
+--------------------------------------------------------------------------------
 
 ### [Bulk and Single Cell Transcriptomics Training Program](https://learn.omicslogic.com/programs/bulk-and-single-cell-transcriptomics-training)
 
