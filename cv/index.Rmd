@@ -104,13 +104,15 @@ Key Skills {#skills}
 
 - Extensive experience with **statistical, NGS data analyses** and public genomic repositories
 
-- Proficiency with _in silico_ **CRISPR gene editing** modules
+- Proficiency with _in silico_ **CRISPR gene editing** analysis modules for  on/off-target characterization
+
+- Experience with **scRNA-Seq** data analysis of **CRISPR screens**
 
 - Machine learning and applied statistics
 
 - Data engineering & pipeline development (AWS, Airflow, PySpark)
 
-- High scientific rigor and eagerness to teach and learn about new computational methods and biology
+- High scientific rigor & willingness to teach and learn about new computational methods and biology
 
 
 Main
