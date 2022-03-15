@@ -97,23 +97,20 @@ Contact Info {#contact}
 
 For more information, please contact me via email
 
+Work authorization: US Citizen
+
 Key Skills {#skills}
 --------------------------------------------------------------------------------
 
 - Expert programming in **Python**, **R**, and **Linux shell scripting**
 
-- Extensive experience with **statistical, NGS data analyses** and public genomic repositories
+- Extensive experience with **transcriptomic data analysis** and public genomic repositories
 
-- Proficiency with _in silico_ **CRISPR gene editing** analysis modules for  on/off-target characterization
+- Proficiency with _in silico_ analysis modules for **single cell RNA-Seq & CRISPR screening protocols** 
 
-- Experience with **scRNA-Seq** data analysis of **CRISPR screens**
-
-- Machine learning and applied statistics
-
-- Data engineering & pipeline development (AWS, Airflow, PySpark)
+- Machine learning and applied statistics for bioinformatics
 
 - High scientific rigor & willingness to teach and learn about new computational methods and biology
-
 
 Main
 ================================================================================
@@ -121,19 +118,39 @@ Main
 **James Sacco** {#title}
 --------------------------------------------------------------------------------
 
-**Bioinformatics Scientist**  
-**Department of Gene and Cell Therapy**  
-**ASC Therapeutics**  
-**Milpitas, CA 95035**
+**Bioinformatics Programmer III**  
+**Laboratory for Genomics Research, Department of Biochemistry and Biophysics**  
+**University of California, San Francisco**  
+**San Francisco, CA 94158 - 2140**
 
-Self-motivated **bioinformatics programming professional** with **six years** of experience in support of **rare disease and cancer therapies**. Areas of expertise include **transcriptomics**, **CRISPR gene editing**, development of robust, reproducible **data workflows** for scientific user interfaces. 
+Self-motivated **computational biologist** with **six years of both academic and industry experience** in: CRISPR screens, single cell sequencing, multi-omics studies, and pipeline automation. Research areas: rare genetic conditions and cancer.
 
-An analytical thinker and quick learner, with a broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease progression and epidemiology**.
+An analytical thinker and quick learner, with a broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease progression and epidemiology**. Advocate for diversity and inclusion.
 
 --------------------------------------------------------------------------------
 
 Selected Experience {data-icon=briefcase}
 --------------------------------------------------------------------------------
+
+### Bioinformatics Programmer III
+
+![UCSF](https://upload.wikimedia.org/wikipedia/commons/6/62/University_of_California%2C_San_Francisco_logo.svg){width=10%} Laboratory for Genomics Research, University of California, San Francisco
+
+San Francisco, CA
+
+Present - 2022
+
+:::concise
+● **Develops computational tools and systems** to analyze and interpret biological or other research data.
+
+● **Develops algorithms**, computational techniques, and statistical methodologies.
+
+● Designs experiments with principle investigators.
+
+● Maintains the **computational infrastructure** and tracks the flow of samples and information for large-scale studies.
+
+● Provides web-based bioinformatics and access to public and proprietary databases
+:::
 
 ### Bioinformatics Scientist
 
@@ -141,18 +158,16 @@ Selected Experience {data-icon=briefcase}
 
 Milpitas, CA
 
-Present - 2021
+2022 - 2021
 
 ::: concise
-● Quantify and characterize **CRISPR gene modifications**, with both custom and open-source tools for genomic data analysis.
+● Quantifed and characterized **CRISPR gene modifications**, with both custom and open-source tools for genomic data analysis.
 
-● Query, retrieve, and integrate data from public genomics databases, to enhance on-target gene editing with sequence alignment protocols. 
+● Queried, retrieved, and integrated data from public genomics databases, to enhance on-target gene editing with **sequence alignment** protocols. 
 
-● Examine concordance and sensitivity of five open-source CRISPR off-target detection methods (**CALITAS**, **CHANGE-Seq**, **CRISPResso**, **GUIDE-Seq**, and **Cas-OFFinder**).
+● Examined concordance and sensitivity of **five computational CRISPR off-target detection methods**.
 
-● Streamline high-performance analyses for bench scientists by constructing **custom data pipelines**, **command line tools**, and **user interfaces**.
-
-● Generate reproducible reports for publication-quality manuscripts.
+● Streamlined high-performance analyses for bench scientists via **custom data pipelines** and **user interfaces**.
 :::
 
 ### Biomarker Data Analyst II
@@ -304,7 +319,7 @@ Miami, FL
 
 ### [Bulk and Single Cell Transcriptomics Training Program](https://learn.omicslogic.com/programs/bulk-and-single-cell-transcriptomics-training)
 
-Pine Biotech, Tauber Bioinformatics Research Center
+OmicsLogic
 
 Online
 
