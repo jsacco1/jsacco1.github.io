@@ -77,6 +77,8 @@ a:hover {
 Aside
 ================================================================================
 
+![dna cut](https://www.pinclipart.com/picdir/big/528-5286661_image-of-blue-dna-being-cleaved-in-half.png)
+
 ```{r}
 #add side note where to find online version
 if(params$pdf_mode){
@@ -121,7 +123,7 @@ Main
 **Bioinformatics Programmer III**  
 **Laboratory for Genomics Research, Department of Biochemistry and Biophysics**  
 **University of California, San Francisco**  
-**San Francisco, CA 94158 - 2140**
+**San Francisco, CA 94158**
 
 Self-motivated **computational biologist** with **six years of both academic and industry experience** in: CRISPR screens, single cell sequencing, multi-omics studies, and pipeline automation. Research areas: rare genetic conditions and cancer.
 
@@ -134,7 +136,7 @@ Selected Experience {data-icon=briefcase}
 
 ### Bioinformatics Programmer III
 
-![UCSF](https://upload.wikimedia.org/wikipedia/commons/6/62/University_of_California%2C_San_Francisco_logo.svg){width=10%} Laboratory for Genomics Research, University of California, San Francisco
+![UCSF](https://upload.wikimedia.org/wikipedia/commons/6/62/University_of_California%2C_San_Francisco_logo.svg){width=10%} [Laboratory for Genomics Research](https://www.lgr.bio/), University of California, San Francisco
 
 San Francisco, CA
 
