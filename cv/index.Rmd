@@ -124,9 +124,9 @@ Main
 
 **Department of Biochemistry & Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA**
 
-Self-motivated **computational biologist** with **six years of both academic and industry experience** in: CRISPR screens, single cell sequencing, multi-omics studies, and pipeline automation. Research areas: rare genetic conditions and cancer.
+Self-motivated **computational biologist** with **six years of both academic and industry experience** in: functional genomics (CRISPR-based screens), single cell sequencing, multi-omics studies, and pipeline automation.
 
-An analytical thinker and quick learner, with a broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease progression and epidemiology**. Advocate for diversity and inclusion.
+An analytical thinker and quick learner, with a broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease progression and epidemiology**. Pre-clinical research experience in rare, genetic disorders/Mendelian disorders and immuno-oncology, specifically cancer immunotherapy. Advocate for diversity and inclusion of under-represented minorities in science.
 
 --------------------------------------------------------------------------------
 
