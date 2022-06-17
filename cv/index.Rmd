@@ -106,11 +106,11 @@ Key Skills {#skills}
 
 - Expert programming in **Python**, **R**, and **Linux shell scripting**
 
-- Extensive experience with **transcriptomic data analysis** and public genomic repositories
+- Experience with **multi-omic data analysis and integration**
 
 - Proficiency with _in silico_ analysis modules for **single cell RNA-Seq & CRISPR screening protocols** 
 
-- Machine learning and applied statistics for bioinformatics
+- Machine learning, applied statistics, and experimental design
 
 - High scientific rigor & willingness to teach and learn about new computational methods and biology
 
@@ -122,9 +122,9 @@ Main
 
 **Laboratory for Genomics Research, Department of Biochemistry & Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA**
 
-Self-motivated **computational biologist** with **six years of both academic and industry experience** in: functional genomics (CRISPR-based screens), population genetics, and pipeline automation for clinical sample, NGS, and EHR data curation and analysis.
+Self-motivated **computational biologist** with **six years of both academic and industry experience** in: functional genomics (CRISPR-based screens), population genetics, and pipeline automation.
 
-An analytical thinker and quick learner, with broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease progression, prevalence, and sub-types**. Pre-clinical research experience in Mendelian disorders and immuno-oncology, specifically cancer immunotherapy. Advocate for diversity and inclusion of under-represented minorities in science.
+An analytical thinker and quick learner, with broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease prevalence, and sub-types**. Pre-clinical research experience in Mendelian disorders and immuno-oncology, specifically cancer immunotherapy. Advocate for diversity and inclusion of under-represented minorities in science.
 
 --------------------------------------------------------------------------------
 
@@ -142,9 +142,9 @@ Present - 2022
 :::concise
 ● **Develops algorithms, computational tools, and statistical methods** to analyze and interpret biological data.
 
-● **Designs experiments** to understand **CRISPRi/a screens** for optimization of genome-wide, dual-guide libraries.
+● **Multi-omic data analysis** for optimization of genome-wide **CRISPRi/a** transcriptional regulation in generic cell lines.
 
-● Maintains and tests **computational infrastructure**, and tracks the flow of samples and information for large-scale studies.
+● **Computational lead** on CRISPR screen focused on lysosomal storage and mitochondrial dysfunction in Niemann-Pick Type C Disease.
 :::
 
 ### Bioinformatics Scientist
@@ -371,7 +371,7 @@ Conference Papers {data-icon=file}
 
 ### [Prediction of disease severity in metachromatic leukodystrophy using measures of protein activity and a novel phenotype matrix.](https://www.abstractsonline.com/pp8/#!/9070/presentation/2893) 
 
-![American Society of Human Genetics](https://ctsi.mcw.edu/images/ashg-logo-713x401.png){width=10%} *American Society of Human Genetics Virtual Meeting.* [Poster] **[Forthcoming on bioRxiv.org]**
+![American Society of Human Genetics](https://ctsi.mcw.edu/images/ashg-logo-713x401.png){width=10%} *American Society of Human Genetics Virtual Meeting.* [Poster] **[Forthcoming in Genome Biology]**
 
 Online
 
