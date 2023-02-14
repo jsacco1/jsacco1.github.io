@@ -301,7 +301,6 @@ N/A
 
 "Hippocampal long-term potentiation in neurodegenerative disorders"
 
-<<<<<<< HEAD
 :::aside
 
 Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
@@ -327,7 +326,6 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 :::
 
 =======
->>>>>>> 8a2e970619b9090a7ab2daa4d681e6f1f2ca7491
 Related coursework:
 
 ●	Biochemistry
