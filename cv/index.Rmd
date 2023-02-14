@@ -144,6 +144,8 @@ Present - 2022
 
 ● Optimized of genome-wide **CRISPRi/a** transcriptional regulation in cancer cell lines, using epigenomic and genomic data analysis.
 
+● **Mentor new bioinformatics programmers** joining computational biology team.
+
 ● **Computational lead** on CRISPR screen focused on lysosomal storage and mitochondrial dysfunction in Niemann-Pick Type C Disease.
 
 ● Integrated **single-cell epigenetic and transcriptomic data** to identify **gene regulatory networks** driving cell differentiation.
@@ -179,19 +181,6 @@ South San Francisco, CA
 ::: concise
 ● Established department-first **machine learning pipeline** to study effects of biomarker operations on quality of cancer immunotherapy assays.
 
-●	Upgraded **data operations** for six data streams, including flow cytometry, biomarker operations, and oncology data warehouses.
-
-●	Monitored and solved sample data quality issues for two cancer immunotherapy trial arms.
-:::
-
-### Data Curator
-
-![GNE](https://seekvectorlogo.com/wp-content/uploads/2018/10/genentech-vector-logo-small.png){width=10%} Genentech (Contract)
-
-South San Francisco, CA
-
-2019 - 2018 
-
 ::: aside
 
 #### PROGRAMMING SKILLS
@@ -214,12 +203,31 @@ South San Francisco, CA
 
 :::
 
+●	Upgraded **data operations** for six data streams, including flow cytometry, biomarker operations, and oncology data warehouses.
+
+●	Monitored and solved sample data quality issues for two cancer immunotherapy trial arms.
+:::
+
+### Data Curator
+
+![GNE](https://seekvectorlogo.com/wp-content/uploads/2018/10/genentech-vector-logo-small.png){width=10%} Genentech (Contract)
+
+South San Francisco, CA
+
+2019 - 2018 
+
 ::: concise
 ●	Collaborated with AI engineers to create an ETL pipeline for **multi-modal survival prediction and patient stratification**, by using Python ML and R to integrate **gene panel** and **RNA-Seq data**.
 
 ●	Designed ETL data pipeline for integration of **real-world EHRs** into **deep learning** module, using Python, SQL, and Apache Spark.
 
 ●	Organized and managed close coordination of Artificial Intelligence, data management, and DevOps functions, to bring **clinical machine learning** from prototype to production.
+
+●	Provided AI and genomic analytic insights in collaboration with Roche-wide data curators and integrators network, to establish F.A.I.R. data management strategies for legacy, current, and next-generation datasets
+
+●	Tested data querying capabilities of newly-acquired AWS-based tech stack.
+
+●	Scoped design of in-house proteomics assay data ingestion and storage
 :::
 
 ### Data Curator, Bioinformatics Analyst 
@@ -231,7 +239,7 @@ San Rafael, CA
 2018 - 2017 
 
 ::: concise
-●	Established an integrated genetic and curated literature workflow to predict incidence and prevalence rates of **over sixty rare, genetic disorders,** with **statistical and data visualization R packages (ggplot2)** and **MATLAB**.
+●	Established an integrated genetic and curated literature workflow to predict incidence and prevalence rates of **over sixty rare, genetic disorders,** with **R statistical and data visualization packages** and **MATLAB**.
 
 ●	Upgraded and tested **RNA-Seq data pipeline (STAR2, SAMtools, Bioconductor)** to discern disease contribution of **rare variants** to neural disease.
 
@@ -240,6 +248,30 @@ San Rafael, CA
 ●	Co-authored manuscript submitted to peer-reviewed publication, on **prediction of disease severity** in metachromatic leukodystrophy.
 
 ●	Developed **allele-specific association models and GWAS analysis software** for two later published manuscripts.
+:::
+
+:::aside
+
+Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
+
+I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
+
+*SF/Bay AI Developers Group*
+
+*San Jose Data Science and AI/ML Meetup*
+
+*Hacker Dojo*
+
+*Seattle Sequencing*
+
+#### LANGUAGES
+
+**English:** Native
+
+**Spanish:** Bilingual Proficiency
+
+**Dutch:** Basic
+
 :::
 
 ### Research Associate
@@ -269,6 +301,7 @@ N/A
 
 "Hippocampal long-term potentiation in neurodegenerative disorders"
 
+<<<<<<< HEAD
 :::aside
 
 Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
@@ -293,6 +326,8 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 
 :::
 
+=======
+>>>>>>> 8a2e970619b9090a7ab2daa4d681e6f1f2ca7491
 Related coursework:
 
 ●	Biochemistry
@@ -451,6 +486,19 @@ Berkeley, CA
 Topics: Introduction to RNA-Seq, Standard Workflows with DESeq2, Reference-Based Assembly, Exploratory Data Analysis, Statistical Analysis, Data Visualization, Gene Set Enrichment, Variant Annotation
 
 ●	Presented publication-quality RNA-Seq data summaries and representations to post-doctoral associates 
+:::
+
+### [Changes in chromatin accessibility are not concordant with transcriptional changes for single-factor perturbations](https://www.biorxiv.org/content/10.1101/2022.02.03.478981v1)
+
+
+![UCSF](https://upload.wikimedia.org/wikipedia/commons/6/62/University_of_California%2C_San_Francisco_logo.svg){width=10%} [Laboratory for Genomics Research](https://www.lgr.bio/) & Department Biochemistry & Biophysics, University of California, San Francisco
+
+San Francisco, CA
+
+2022
+
+:::concise
+●	Presented now-published preprint in contrast with established research at internal Journal Club to inform future experimental design in epigenetic editing.
 :::
 
 Teaching {data-icon=book}
