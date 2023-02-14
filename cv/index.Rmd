@@ -140,16 +140,20 @@ San Francisco, CA
 Present - 2022
 
 :::concise
-● **Develops algorithms, computational tools, and statistical methods** to analyze and interpret biological data.
+● Led investigation of computational rules for **CRISPRi guide design** using open-source machine learning algorithms.
 
-● **Multi-omic data analysis** for optimization of genome-wide **CRISPRi/a** transcriptional regulation in generic cell lines.
+● Optimized of genome-wide **CRISPRi/a** transcriptional regulation in cancer cell lines, using epigenomic and genomic data analysis.
 
 ● **Computational lead** on CRISPR screen focused on lysosomal storage and mitochondrial dysfunction in Niemann-Pick Type C Disease.
+
+● Integrated **single-cell epigenetic and transcriptomic data** to identify **gene regulatory networks** driving cell differentiation.
+
+● Mentored junior programmers joining computational biology team.
 :::
 
 ### Bioinformatics Scientist
 
-![ASC](https://medicalnewsupdates.com/wp-content/uploads/2021/07/asc_therapeutics_logo_color_print-01_square.jpg){width=10%} ASC Therapeutics (Contract)
+![ASC](https://media-exp1.licdn.com/dms/image/C560BAQFJV_8BfNX9hw/company-logo_200_200/0/1556232756518?e=1676505600&v=beta&t=a6WSPpOWS-jl_2W9wLCfidBrpd6iL2e4MOo7rriokS4){width=10%} ASC Therapeutics (Contract)
 
 Milpitas, CA
 
@@ -200,13 +204,9 @@ South San Francisco, CA
 
 <i class="fas fa-code-branch"></i> `Git` ★★★★★
 
-<i class="fab fa-github"></i> `GitHub` ★★★★★
-
 <i class="fab fa-markdown"></i> `Markdown`★★★★★
 
 <i class="fas fa-database"></i> `SQL` ★★★☆☆
-
-<i class="far fa-chart-bar"></i> `Dash` ★★★☆☆
 
 ![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++` ★★★☆☆
 
@@ -287,7 +287,9 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 
 **English:** Native
 
-**Spanish:** Bilingual Proficiency
+**Spanish:** Native
+
+**Dutch:** Limited Working Proficiency
 
 :::
 
