@@ -120,7 +120,7 @@ Main
 **James Sacco** {#title}
 --------------------------------------------------------------------------------
 
-**Laboratory for Genomics Research, Department of Biochemistry & Biophysics, University of California, San Francisco, San Francisco, CA 94158, USA**
+**Laboratory for Genomics Research, University of California, San Francisco, San Francisco, CA 94158, USA**
 
 Self-motivated **computational biologist** with **seven years of both academic and industry experience** in: functional genomics (CRISPR-based screens), population genetics, and pipeline automation.
 
@@ -133,7 +133,7 @@ Selected Experience {data-icon=briefcase}
 
 ### Bioinformatics Programmer III
 
-![UCSF](https://upload.wikimedia.org/wikipedia/commons/6/62/University_of_California%2C_San_Francisco_logo.svg){width=10%} [Laboratory for Genomics Research](https://www.lgr.bio/) & Department Biochemistry & Biophysics, University of California, San Francisco
+![UCSF](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/UCSF_Logo_21_Navy_300dpi_RGB.jpg){width=10%} [Laboratory for Genomics Research](https://www.lgr.bio/), University of California, San Francisco
 
 San Francisco, CA
 
@@ -153,7 +153,7 @@ Present - 2022
 
 ### Bioinformatics Scientist
 
-![ASC](https://media-exp1.licdn.com/dms/image/C560BAQFJV_8BfNX9hw/company-logo_200_200/0/1556232756518?e=1676505600&v=beta&t=a6WSPpOWS-jl_2W9wLCfidBrpd6iL2e4MOo7rriokS4){width=10%} ASC Therapeutics (Contract)
+![ASC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/asctx_logo.jpeg){width=10%} ASC Therapeutics (Contract)
 
 Milpitas, CA
 
@@ -264,11 +264,11 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 
 #### LANGUAGES
 
-**English:** Native
+**English:** Native Proficiency
 
-**Spanish:** Bilingual Proficiency
+**Spanish:** Native Proficiency
 
-**Dutch:** Basic
+**Dutch:** Limited Working Proficiency
 
 :::
 
@@ -297,44 +297,19 @@ Stratford, NJ
 
 N/A
 
-"Hippocampal long-term potentiation in neurodegenerative disorders"
+"Mechanisms of synaptic signaling dysfunction in hippocampal long-term potentiation"
 
-:::aside
-
-Active member of Biostars [<img src="https://www.biostars.org/static/images/logo6.svg">](https://www.biostars.org/u/40325/) 
-
-I have participated in bioinformatics and software workshops and *Meetup.com* groups, in both Seattle, WA and San Francisco, CA, including: 
-
-*SF/Bay AI Developers Group*
-
-*San Jose Data Science and AI/ML Meetup*
-
-*Hacker Dojo*
-
-*Seattle Sequencing*
-
-#### LANGUAGES
-
-**English:** Native
-
-**Spanish:** Native
-
-**Dutch:** Limited Working Proficiency
-
-:::
-
-=======
-Related coursework:
-
-●	Biochemistry
-
-●	Molecular Biology
-
-●	Cell Biology
-
-●	Microbiology
-
-●	Pharmacology
+  Related coursework:
+  
+  ●	Biochemistry
+  
+  ●	Molecular Biology
+  
+  ●	Cell Biology
+  
+  ●	Microbiology
+  
+  ●	Pharmacology
 
 ### Florida International University, The Honors College
 
@@ -344,14 +319,6 @@ Miami, FL
 
 <i class="fas fa-laptop"></i> Professional Development
 --------------------------------------------------------------------------------
-
-### [Bulk and Single Cell Transcriptomics Training Program](https://learn.omicslogic.com/programs/bulk-and-single-cell-transcriptomics-training)
-
-OmicsLogic
-
-Online
-
-2022
 
 ### [Python for Data Science: Fundamentals Part I Course](http://links.iterable.com/u/click?_t=4a16705ff7784260b1b139ad7ac93ebf&_m=34ed48a7273845da8e2eebf7f103638a&_e=A8KtzNG8hQmSIiZw8a6IRZSe870W1l30iT3FAuPZkLT4brzWYfnDAAktVxaO27-kZSk2JLhvIAXpJ4YxVC9PYPu-CGfFa6kbwEUHOvXHyHZBvZ6zW5Kpg2rsCwx-xdk9DoKhhPMaGihG_0rexFh258pNbM0x2TtSTF3esfilJpopBdTrEPPcFQwb6nd6GPseq8ilYPk7Mm4pOxPyR6sH1kjz-Jn91VF1iHy52kN8-Zg1z22hANXI-hk7BxqpYBE-n5_NkFxST4dQ2SyxlwLL-cwBG6bd1CTpxuYYOiw-eJY%3D)
 
@@ -404,7 +371,7 @@ Conference Papers {data-icon=file}
 
 ### [Prediction of disease severity in metachromatic leukodystrophy using measures of protein activity and a novel phenotype matrix.](https://www.abstractsonline.com/pp8/#!/9070/presentation/2893) 
 
-![American Society of Human Genetics](https://ctsi.mcw.edu/images/ashg-logo-713x401.png){width=10%} *American Society of Human Genetics Virtual Meeting.* [Poster] **[Forthcoming in Genome Biology]**
+![American Society of Human Genetics](https://ctsi.mcw.edu/images/ashg-logo-713x401.png){width=10%} *American Society of Human Genetics Virtual Meeting.* [Poster] **[Forthcoming in BMC Genome Biology]**
 
 Online
 
@@ -487,7 +454,7 @@ Topics: Introduction to RNA-Seq, Standard Workflows with DESeq2, Reference-Based
 ### [Changes in chromatin accessibility are not concordant with transcriptional changes for single-factor perturbations](https://www.biorxiv.org/content/10.1101/2022.02.03.478981v1)
 
 
-![UCSF](https://upload.wikimedia.org/wikipedia/commons/6/62/University_of_California%2C_San_Francisco_logo.svg){width=10%} [Laboratory for Genomics Research](https://www.lgr.bio/) & Department Biochemistry & Biophysics, University of California, San Francisco
+![UCSF](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/UCSF_Logo_21_Navy_300dpi_RGB.jpg){width=10%} [Laboratory for Genomics Research](https://www.lgr.bio/) & Department Biochemistry & Biophysics, University of California, San Francisco
 
 San Francisco, CA
 
