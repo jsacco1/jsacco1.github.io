@@ -4,7 +4,7 @@ date: 2023-05-05
 tags: [bash, tests, automation, argparse, python, CICD, programming, best practices, computational biology, single cell, reproducibility, research, methods, data management, project management, version control, Github, bioinformatics, open-source, Travis, tools, productivity]
 header:
   image: 
-excerpt: "In which I try to merging CI/CD and automated directory structures for single-cell analysis"
+excerpt: "Combining CI/CD tools and automated directory structure creation for a generic single-cell analysis module"
 mathjax: "true"
 ---
 
