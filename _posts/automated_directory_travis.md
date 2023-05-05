@@ -1,6 +1,6 @@
 ---
 title: "Automated single-cell python directory modules with Travis CI"
-date: 2023-05-04
+date: 2023-05-05
 tags: [bash, tests, automation, argparse, python, CICD, programming, bioinformatics, productivity]
 header:
   image: 
