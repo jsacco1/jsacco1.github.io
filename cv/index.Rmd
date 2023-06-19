@@ -140,9 +140,9 @@ San Francisco, CA
 Present - 2022
 
 :::concise
-● Led investigation of computational rules for **CRISPRi guide design** using open-source machine learning algorithms.
+● Led investigation of computational rules for **CRISPRi guide design**, using open-source machine learning algorithms.
 
-● Optimized of genome-wide **CRISPRi/a** transcriptional regulation in cancer cell lines, using epigenomic and genomic data analysis.
+● Optimized genome-wide **CRISPRi/a** dual-guide library in cancer cell lines, targeting active promoters.
 
 ● **Computational lead** on CRISPR screen focused on lysosomal storage and mitochondrial dysfunction in Niemann-Pick Type C Disease.
 
