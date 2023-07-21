@@ -356,16 +356,6 @@ Miami, FL
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [Regulating Axonal Responses to Injury: The Intersection between Signaling Pathways Involved in Axon Myelination and The Inhibition of Axon Regeneration.](https://www.frontiersin.org/articles/10.3389/fnmol.2016.00033/full) 
-
-*Frontiers in Molecular Neuroscience.* 2016 Jun 8;9:33.   
-
-N/A
-
-2016
-
-Rao S.N., Pearse D.D. **Manuscript Editor** 
-
 ### [Predicting disease severity in metachromatic leukodystrophy using protein activity and a patient phenotype matrix.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03001-z) 
 
 *Genome Biology.* 2023 Jul 24:172.   
@@ -375,6 +365,16 @@ N/A
 2023
 
 Trinidad M., Hong X., Froelich S., Daiker J., **Sacco J.**, Phuc Nguyen H., Campagna M., Suhr D., Suhr T., LeBowitz J.H., Gelb M.H., Clark W.T.
+
+### [Regulating Axonal Responses to Injury: The Intersection between Signaling Pathways Involved in Axon Myelination and The Inhibition of Axon Regeneration.](https://www.frontiersin.org/articles/10.3389/fnmol.2016.00033/full) 
+
+*Frontiers in Molecular Neuroscience.* 2016 Jun 8;9:33.   
+
+N/A
+
+2016
+
+Rao S.N., Pearse D.D. **Manuscript Editor** 
 
 Conference Papers {data-icon=file}
 --------------------------------------------------------------------------------
@@ -398,7 +398,6 @@ Pacific Grove, CA
 2018
 
 ::: aside
-
 Avid supporter of the San Francisco Symphony and San Francisco Conservatory of Music
 
 Stonewall Sports kickball. San Francisco, CA. 2023 -- Present.
