@@ -140,15 +140,15 @@ San Francisco, CA
 Present - 2022
 
 :::concise
-● Led investigation of computational rules for **CRISPRi guide design**, using open-source machine learning algorithms.
+● Led investigation of computational rules for **CRISPRi guide RNA design**, using open-source machine learning algorithms.
 
 ● Optimized genome-wide **CRISPRi/a** dual-guide library in cancer cell lines, targeting active promoters.
 
 ● **Computational lead** on CRISPR screen focused on lysosomal storage and mitochondrial dysfunction in Niemann-Pick Type C Disease.
 
-● Integrated **single-cell epigenetic and transcriptomic data** to identify **gene regulatory networks** driving cell differentiation.
+● Integrated **single-cell epigenetic and transcriptomic data** to identify iPSC **gene regulatory networks**, which drive cell differentiation.
 
-● Mentored junior programmers joining computational biology team.
+● Mentored junior programmers on the computational biology team.
 :::
 
 ### Bioinformatics Scientist
@@ -160,11 +160,11 @@ Milpitas, CA
 2022 - 2021
 
 ::: concise
-● Quantifed and characterized **CRISPR gene modifications**, with both custom and open-source tools for genomic data analysis.
+● Quantifed and characterized **CRISPR gene modifications**, with both in-house and open-source tools for genomic data analysis.
 
 ● Queried, retrieved, and integrated data from public genomics databases, to enhance on-target gene editing with **sequence alignment** protocols. 
 
-● Examined concordance and sensitivity of **five computational CRISPR off-target detection methods**.
+● Examined concordance and sensitivity of **five computational CRISPR off-target error detection methods**.
 
 ● Streamlined high-performance analyses for bench scientists via **custom data pipelines** and **user interfaces**.
 :::
@@ -268,7 +268,7 @@ I have participated in bioinformatics and software workshops and *Meetup.com* gr
 
 **Spanish:** Native Proficiency
 
-**Dutch:** Limited Working Proficiency
+**Dutch:** Intermediate Proficiency
 
 :::
 
@@ -366,12 +366,22 @@ N/A
 
 Rao S.N., Pearse D.D. **Manuscript Editor** 
 
+### [Predicting disease severity in metachromatic leukodystrophy using protein activity and a patient phenotype matrix.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03001-z) 
+
+*Genome Biology.* 2023 Jul 24:172.   
+
+N/A
+
+2023
+
+Trinidad, et al. **Fourth author**
+
 Conference Papers {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### [Prediction of disease severity in metachromatic leukodystrophy using measures of protein activity and a novel phenotype matrix.](https://www.abstractsonline.com/pp8/#!/9070/presentation/2893) 
 
-![American Society of Human Genetics](https://ctsi.mcw.edu/images/ashg-logo-713x401.png){width=10%} *American Society of Human Genetics Virtual Meeting.* [Poster] **[Forthcoming in BMC Genome Biology]**
+![American Society of Human Genetics](https://ctsi.mcw.edu/images/ashg-logo-713x401.png){width=10%} *American Society of Human Genetics Virtual Meeting.* [Poster]
 
 Online
 
@@ -391,7 +401,9 @@ Pacific Grove, CA
 
 Avid supporter of the San Francisco Symphony and San Francisco Conservatory of Music
 
-Ultimate frisbee at *Big Gay Frisbee.* San Francisco, CA. 2018 -- Present.
+Stonewall Sports kickball. San Francisco, CA. 2023 -- Present.
+
+Ultimate frisbee league player. San Francisco, CA. 2018 -- Present.
 
 Salsa dance at *In Lak’ech Dance Academy.* Oakland, CA. 2019.
 
