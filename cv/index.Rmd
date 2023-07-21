@@ -374,7 +374,7 @@ N/A
 
 2023
 
-Trinidad, et al. **Fourth author**
+Trinidad M., Hong X., Froelich S., Daiker J., **Sacco J.**, Phuc Nguyen H., Campagna M., Suhr D., Suhr T., LeBowitz J.H., Gelb M.H., Clark W.T.
 
 Conference Papers {data-icon=file}
 --------------------------------------------------------------------------------
