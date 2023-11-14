@@ -77,7 +77,7 @@ a:hover {
 Aside
 ================================================================================
 
-![dna cut](https://www.pinclipart.com/picdir/big/528-5286661_image-of-blue-dna-being-cleaved-in-half.png)
+![dna cut](https://www.pinclipart.com/picdir/big/528-5286661_image-of-blue-dna-being-cleaved-in-half.png){width=60%} 
 
 ```{r}
 #add side note where to find online version
@@ -97,20 +97,16 @@ Contact Info {#contact}
 - <i class="fa fa-linkedin"></i> [linkedin.com](https://www.linkedin.com/in/james-sacco/)
 - <i class="fa fa-phone"></i> +1 (786)-473-9993
 
-For more information, please contact me via email
+For more information, please contact me via email.
 
 Work authorization: US Citizen
 
 Key Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Expert programming in **Python**, **R**, and **Linux shell scripting**
+- Expert programming in **Python**, **R**, and **Linux** shell scripting
 
-- Experience with **multi-omic data analysis and integration**
-
-- Proficiency with _in silico_ analysis modules for **single cell RNA-Seq & CRISPR screening protocols** 
-
-- Machine learning, applied statistics, and experimental design
+- Proficiency with **single cell gene expression, gene regulation, and epigenetic data analyses**, genomic data repositories, **machine learning**, experimental design, and CRISPR screening tools.
 
 - High scientific rigor & willingness to teach and learn about new computational methods and biology
 
@@ -122,9 +118,9 @@ Main
 
 **Laboratory for Genomics Research, University of California, San Francisco, San Francisco, CA 94158, USA**
 
-Self-motivated **computational biologist** with **seven years of both academic and industry experience** in: functional genomics (CRISPR-based screens), population genetics, and pipeline automation.
+Self-motivated **computational biologist** with **seven years of both academic and industry experience** in: functional genomics, population genetics, and workflow automation. 
 
-An analytical thinker and quick learner, with broad understanding of **statistical and machine learning methods**. Published author of research studies in the integration of genotype and phenotype data to **model disease prevalence, and sub-types**. Pre-clinical research experience in Mendelian disorders and immuno-oncology, specifically cancer immunotherapy. Advocate for diversity and inclusion of under-represented minorities in science.
+An analytical thinker and quick learner, with broad understanding of **statistical and machine learning methods**, **gene regulatory network inference**, and **multi-omic single cell data analysis**. Published author of  in the association of curated genotype and phenotype data to model **disease prevalence, and sub-types of Mendelian disorders**. Extensive experience in **AI** and **biomarker data analysis** to advance **cancer immunotherapy in clinical trials**. Advocate for diversity and inclusion in science.
 
 --------------------------------------------------------------------------------
 
@@ -140,33 +136,35 @@ San Francisco, CA
 Present - 2022
 
 :::concise
-● Led investigation of computational rules for **CRISPRi guide RNA design**, using open-source machine learning algorithms.
+● Led investigation of computational rules for **CRISPR interference (CRISPRi) guide RNA design** optimization, using **Python machine learning modules.**
 
-● Optimized genome-wide **CRISPRi/a** dual-guide library in cancer cell lines, targeting active promoters.
+● Improved whole-genome targeting of promoter regions in a **genome-wide CRISPRi dual-guide library** in K562 cancer cell lines.
 
-● **Computational lead** on CRISPR screen focused on lysosomal storage and mitochondrial dysfunction in Niemann-Pick Type C Disease.
+● **Identified over 100 putative therapeutic targets**, as computational lead on a CRISPRi screen focused on cellular dysfunction in Niemann-Pick Type C Disease.
 
-● Integrated **single-cell epigenetic and transcriptomic data** to identify iPSC **gene regulatory networks**, which drive cell differentiation.
+● Integrated **single-cell epigenetic and transcriptomic data** to computationally reconstruct **gene regulatory networks** for seventy-six transcription factors in iPSC-derived cells.
 
-● Mentored junior programmers on the computational biology team.
+● Mentored two junior programmers on the computational biology team.
+
+● Co-authored a manuscript officially intended for publication, on in-house experimental findings.
 :::
 
 ### Bioinformatics Scientist
 
-![ASC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/asctx_logo.jpeg){width=10%} ASC Therapeutics (Contract)
+![ASC](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/master/images/asctx_logo.jpeg){width=10%} ASC Therapeutics
 
 Milpitas, CA
 
 2022 - 2021
 
 ::: concise
-● Quantifed and characterized **CRISPR gene modifications**, with both in-house and open-source tools for genomic data analysis.
+● Quantifed and characterized **CRISPR gene modifications** in a sickle-cell disease model, with both in-house and open-source tools for genomic data analysis.
 
 ● Queried, retrieved, and integrated data from public genomics databases, to enhance on-target gene editing with **sequence alignment** protocols. 
 
 ● Examined concordance and sensitivity of **five computational CRISPR off-target error detection methods**.
 
-● Streamlined high-performance analyses for bench scientists via **custom data pipelines** and **user interfaces**.
+● Streamlined high-performance analyses for bench scientists via **custom data pipelines** and **user interfaces**, enabling round-the-clock analyses.
 :::
 
 ### Biomarker Data Analyst II
@@ -185,15 +183,13 @@ South San Francisco, CA
 
 <i class="fab fa-python"></i> `Python` ★★★★★
 
-<i class="fab fa-r-project"></i> `R` ★★★★★
+<i class="fab fa-r-project"></i> `R` ★★★★☆
 
-<i class="fab fa-linux"></i> `Linux` ★★★★★
+<i class="fab fa-linux"></i> `Linux` ★★★★☆
 
 <i class="fas fa-code-branch"></i> `Git` ★★★★★
 
 <i class="fab fa-markdown"></i> `Markdown`★★★★★
-
-<i class="fas fa-database"></i> `SQL` ★★★☆☆
 
 ![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++` ★★★☆☆
 
@@ -307,7 +303,7 @@ N/A
   
   ●	Cell Biology
   
-  ●	Microbiology
+  ●	Mechanisms of Disease
   
   ●	Pharmacology
 
@@ -376,8 +372,16 @@ N/A
 
 Rao S.N., Pearse D.D. **Manuscript Editor** 
 
-Conference Papers {data-icon=file}
+Conferences {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+### [Single Cell Analyses](https://meetings.cshl.edu/meetings.aspx?meet=SINGLE&year=23) 
+
+![Cold Spring Harbor Laboratory Logo](https://meetings.cshl.edu/images/cshl.png){width=10%} *Cold Spring Harbor Laboratory Single Cell Analyses Meeting.*
+
+Cold Spring Harbor, New York
+
+2023
+
 
 ### [Prediction of disease severity in metachromatic leukodystrophy using measures of protein activity and a novel phenotype matrix.](https://www.abstractsonline.com/pp8/#!/9070/presentation/2893) 
 
@@ -396,16 +400,6 @@ Trinidad M., Hong X., **Sacco J.**, Nguyen H.P., Clark W.T., Froelich S., LeBowi
 Pacific Grove, CA
 
 2018
-
-::: aside
-
-Stonewall Sports kickball. San Francisco, CA. 2023 -- Present.
-
-Ultimate frisbee player. San Francisco, CA. 2018 -- Present.
-
-Rugby at *Seattle Quake RFC*. Seattle, WA. 2016 -- 2017.
-
-:::
 
 **Sacco J.**, Clark W.T., Yu K., Wu K., LeBowitz J.H. 
 
@@ -439,6 +433,18 @@ Clark W.T., et al.
 N/A
 
 2017
+
+::: aside
+
+#### HOBBIES
+
+Stonewall Sports kickball. San Francisco, CA. 2023 -- Present.
+
+Ultimate frisbee player. San Francisco, CA. 2018 -- Present.
+
+Rugby at *Seattle Quake RFC*. Seattle, WA. 2016 -- 2017.
+
+:::
 
 Knott E.P., et al.
 
