@@ -118,9 +118,9 @@ Main
 
 **Laboratory for Genomics Research, University of California, San Francisco, San Francisco, CA 94158, USA**
 
-Self-motivated **computational biologist** with **seven years of both academic and industry experience** in: functional genomics, population genetics, and workflow automation. 
+Self-motivated computational biologist with seven years of both academic and industry experience in genetic disease, functional genomics, and biomedical software development.
 
-An analytical thinker and quick learner, with broad understanding of **statistical and machine learning methods**, **gene regulatory network inference**, and **multi-omic single cell data analysis**. Published author of  in the association of curated genotype and phenotype data to model **disease prevalence, and sub-types of Mendelian disorders**. Extensive experience in **AI** and **biomarker data analysis** to advance **cancer immunotherapy in clinical trials**. Advocate for diversity and inclusion in science.
+An analytical thinker and quick learner, with broad experience in AI/ML, gene regulatory network inference, and multi-omic single cell data analysis. Published manuscript on association of curated genotype, phenotype, and rare variant data to sub-type genetic disorders. Advocate for diversity and inclusion in STEM.
 
 --------------------------------------------------------------------------------
 
