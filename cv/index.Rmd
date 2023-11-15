@@ -97,16 +97,16 @@ Contact Info {#contact}
 - <i class="fa fa-linkedin"></i> [linkedin.com](https://www.linkedin.com/in/james-sacco/)
 - <i class="fa fa-phone"></i> +1 (786)-473-9993
 
-For more information, please contact me via email.
+Work authorization: US citizen
 
-Work authorization: US Citizen
+For more information, please contact me via email.
 
 Key Skills {#skills}
 --------------------------------------------------------------------------------
 
 - Expert programming in **Python**, **R**, and **Linux** shell scripting
 
-- Proficiency with **single cell gene expression, gene regulation, and epigenetic data analyses**, genomic data repositories, **machine learning**, experimental design, and CRISPR screening tools.
+- Proficiency with **single cell epi-/genomics**, **machine learning**, **experimental design**, and **robust and reproducible analyses**
 
 - High scientific rigor & willingness to teach and learn about new computational methods and biology
 
@@ -118,9 +118,9 @@ Main
 
 **Laboratory for Genomics Research, University of California, San Francisco, San Francisco, CA 94158, USA**
 
-Self-motivated computational biologist with seven years of both academic and industry experience in genetic disease, functional genomics, and biomedical software development.
+Self-motivated computational biologist with seven years of both academic and industry experience in: **genetic diseases, cancer immunotherapies, functional genomics, and biomedical software development.**
 
-An analytical thinker and quick learner, with broad experience in AI/ML, gene regulatory network inference, and multi-omic single cell data analysis. Published manuscript on association of curated genotype, phenotype, and rare variant data to sub-type genetic disorders. Advocate for diversity and inclusion in STEM.
+An analytical thinker and quick learner, with broad experience in AI/ML, gene regulatory network inference, and multi-omic single cell data analysis. Published manuscript on the population genetics of rare disorders.
 
 --------------------------------------------------------------------------------
 
@@ -140,13 +140,13 @@ Present - 2022
 
 ● Improved whole-genome targeting of promoter regions in a **genome-wide CRISPRi dual-guide library** in K562 cancer cell lines.
 
-● **Identified over 100 putative therapeutic targets**, as computational lead on a CRISPRi screen focused on cellular dysfunction in Niemann-Pick Type C Disease.
+● **Identified over 100 putative therapeutic targets** for Niemann-Pick Type C Disease, as **computational lead** on a CRISPRi screening project.
 
 ● Integrated **single-cell epigenetic and transcriptomic data** to computationally reconstruct **gene regulatory networks** for seventy-six transcription factors in iPSC-derived cells.
 
-● Mentored two junior programmers on the computational biology team.
+● Mentored two programmers on the computational biology team.
 
-● Co-authored a manuscript officially intended for publication, on in-house experimental findings.
+● **Co-authored a manuscript** officially intended for publication, on in-house experimental findings.
 :::
 
 ### Bioinformatics Scientist
