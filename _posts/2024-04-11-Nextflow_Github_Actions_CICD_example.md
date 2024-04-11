@@ -26,7 +26,7 @@ I also needed to create a main.nf file to run the Nextflow pipeline. I had to de
 
 The best parts of the user experience of Github Actions are: its error messages, its little progress circles for `build` and `test`, and that Github emails you when your workflow run fails. Every push automatically runs the pipeline, which can be tracked in real time from the Actions tab of your repo. The logging provides informative detail as to where the errors occurred. Each run of your pipeline also gets a name and number. 
 
-While the web experience was easy to pick up, the complex syntax for Nextflow and Github Actions created a bigger challenge for me. However, the Nextflow documentation has many useful examples (e.g., the Machine Learning pipeline <sup>1/sup>; there's even an RNA-seq pipeline <sup>2</sup>).  
+While the web experience was easy to pick up, the complex syntax for Nextflow and Github Actions created a bigger challenge for me. However, the Nextflow documentation has many useful examples (e.g., the Machine Learning pipeline ^1^; there's even an RNA-seq pipeline ^2^).  
 
 I appreciate that the authors of Nextflow and Github Actions aimed for simplicity of ordering tasks and assigning dependencies. The templates for Nextflow and Github Actions workflow files take heavily stereotyped forms. 
 
@@ -36,6 +36,6 @@ Overall, I can say that I much prefer Github Actions to other CI/CD tools, and I
 Code for this project can be found at `https://github.com/jsacco1/crispr-bio`
 
 ### References
-<sup>1/sup> : Source: `https://www.nextflow.io/example5.html`. Accessed April 11, 2024.
+^1^ : Source: `https://www.nextflow.io/example5.html`. Accessed April 11, 2024.
 
-<sup>2/sup> : Source: `https://www.nextflow.io/example4.html`. Accessed April 11, 2024.
+^2^ Source: `https://www.nextflow.io/example4.html`. Accessed April 11, 2024.
