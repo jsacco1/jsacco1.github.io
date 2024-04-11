@@ -24,11 +24,18 @@ Even though the Github Actions runner does not interface with my local conda env
 
 I also needed to create a main.nf file to run the Nextflow pipeline. I had to define processes and workflows correctly, and even this was more straightforward than correctly formatting and calling methods for Github Actions.
 
-The greatest things about Github Actions are its error messages, its little progress circles for `build` and `test`, and that Github emails you when your workflow runs, and whether it failed. So, for me the web UI is great. It's mastering the formatting and syntax for Nextflow and Github Actions that's quite sophisticated. The Nextflow documentation has many practical examples (e.g., the Machine Learning pipeline at `https://www.nextflow.io/example5.html`).  
+The best parts of the user experience of Github Actions are: its error messages, its little progress circles for `build` and `test`, and that Github emails you when your workflow run fails. Every push automatically runs the pipeline, which can be tracked in real time from the Actions tab of your repo. The logging provides informative detail as to where the errors occurred. Each run of your pipeline also gets a name and number. 
 
-I appreciate that the authors of Nextflow and Github Actions aimed for simplicity of ordering tasks and assigning dependencies. The templates for Nextflow and Github Actions workflow files take heavily stereotyped forms. Every push 
+While the web experience was easy to pick up, the complex syntax for Nextflow and Github Actions created a bigger challenge for me. However, the Nextflow documentation has many useful examples (e.g., the Machine Learning pipeline <sup>1/sup>; there's even an RNA-seq pipeline <sup>2</sup>).  
+
+I appreciate that the authors of Nextflow and Github Actions aimed for simplicity of ordering tasks and assigning dependencies. The templates for Nextflow and Github Actions workflow files take heavily stereotyped forms. 
 
 Overall, I can say that I much prefer Github Actions to other CI/CD tools, and I really like Nextflow for organizing my workflows; it beats manually numbering script file names, and then stashing them all in a bash script. For both development and production, my use case has allowed me to see that the learning curve for Nextflow and Github Actions is worth the effort. 
 
 ### Code availability
 Code for this project can be found at `https://github.com/jsacco1/crispr-bio`
+
+### References
+<sup>1/sup> : Source: `https://www.nextflow.io/example5.html`. Accessed April 11, 2024.
+
+<sup>2/sup> : Source: `https://www.nextflow.io/example4.html`. Accessed April 11, 2024.
