@@ -33,7 +33,8 @@ I appreciate that the authors of Nextflow and Github Actions aimed for simplicit
 Overall, I can say that I much prefer Github Actions to other CI/CD tools, and I really like Nextflow for organizing my workflows; it beats manually numbering script file names, and then stashing them all in a bash script. For both development and production, my use case has allowed me to see that the learning curve for Nextflow and Github Actions is worth the effort. 
 
 ### Code availability
-Code for this project can be found at `https://github.com/jsacco1/crispr-bio`
+
+Code for this project can be found at [https://github.com/jsacco1/crispr-bio](https://github.com/jsacco1/crispr-bio).
 
 ### References
 
