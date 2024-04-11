@@ -39,4 +39,4 @@ Code for this project can be found at `https://github.com/jsacco1/crispr-bio`
 
 <a name="ref1">1</a>: Source: [Machine Learning pipeline](https://www.nextflow.io/example5.html). Accessed April 11, 2024.
 
-<a name="ref2">2</a>: Source: [Rna-seq pipeline](https://www.nextflow.io/example4.html). Accessed April 11, 2024.
+<a name="ref2">2</a>: Source: [RNA-seq pipeline](https://www.nextflow.io/example4.html). Accessed April 11, 2024.
