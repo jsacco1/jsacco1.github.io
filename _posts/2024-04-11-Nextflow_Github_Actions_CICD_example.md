@@ -1,6 +1,6 @@
 ---
 title: "Bioinformatics Projects CI/CD with Nextflow and Github Actions"
-date: 2023-05-05
+date: 2024-04-11
 tags: [bash, tests, automation, CICD, programming, best practices, reproducibility, research, methods, data management, project management, version control, Github, bioinformatics, open-source, Nextflow, tools, productivity]
 header:
   image: 
