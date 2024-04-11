@@ -24,7 +24,9 @@ Even though the Github Actions runner does not interface with my local conda env
 
 I also needed to create a main.nf file to run the Nextflow pipeline. I had to define processes and workflows correctly, and even this was more straightforward than correctly formatting and calling methods for Github Actions.
 
-The greatest things about Github Actions are its error messages, its little progress circles for `build` and `test`, and that Github emails you when your workflow runs, and whether it failed. So, for me the web UI is great. It's mastering the formatting and syntax for Nextflow and Github Actions that's quite sophisticated. I do appreciate that as CI/CD tools the authors did aim for simplicity of ordering tasks and assigning dependencies. 
+The greatest things about Github Actions are its error messages, its little progress circles for `build` and `test`, and that Github emails you when your workflow runs, and whether it failed. So, for me the web UI is great. It's mastering the formatting and syntax for Nextflow and Github Actions that's quite sophisticated. The Nextflow documentation has many practical examples (e.g., the Machine Learning pipeline at `https://www.nextflow.io/example5.html`).  
+
+I appreciate that the authors of Nextflow and Github Actions aimed for simplicity of ordering tasks and assigning dependencies. The templates for Nextflow and Github Actions workflow files take heavily stereotyped forms. Every push 
 
 Overall, I can say that I much prefer Github Actions to other CI/CD tools, and I really like Nextflow for organizing my workflows; it beats manually numbering script file names, and then stashing them all in a bash script. For both development and production, my use case has allowed me to see that the learning curve for Nextflow and Github Actions is worth the effort. 
 
