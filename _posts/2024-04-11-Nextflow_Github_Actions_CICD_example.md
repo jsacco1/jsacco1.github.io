@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatics Projects CI/CD with Nextflow and Github Actions"
+title: "Streamlining Bioinformatics Projects with CI/CD Using Nextflow and Github Actions"
 date: 2024-04-11
 tags: [bash, tests, automation, CICD, programming, best practices, reproducibility, research, methods, data management, project management, version control, Github, bioinformatics, open-source, Nextflow, tools, productivity]
 header:
@@ -10,27 +10,23 @@ mathjax: "true"
 
 ## Bioinformatics Projects CI/CD with Nextflow and Github Actions
 
-If you work in the field of bioinformatics, you've probably noticed how more and more institutions demand that bioinformaticians know how to use at least one CI/CD framework. 
+In the field of bioinformatics, there's a growing need for bioinformaticians to be familiar with CI/CD frameworks. Whether you're exploring scientific questions or building automated pipelines, demonstrating proficiency in CI/CD becomes important, especially when stakeholders want to use your tools or methods beyond the prototype phase. This is where CI/CD tools like Nextflow and Github Actions come in handy.
 
-Whether you are studying an open-ended scientific question or building some sort of automated pipeline, at some point you may need to show your proficiency in CI/CD. Someone will want to run your tool or method in a post-prototype, or even production environment. To do that, CI/CD tools can come in handy. 
-
-I have worked on installing and setting up Nextflow, pytest, and Github to use in a generic bioinformatics repository. 
-
-The hardest part was getting the main.yml to run correctly, with its esoteric syntax for (1) installing and calling a conda environment, then (2) installing a conda package, and (3) making sure the python script I wanted to run used the right conda environmemt.
+I've worked on integrating Nextflow, pytest, and Github into a general bioinformatics repository, facing some challenges along the way. The trickiest part was setting up the main.yml file to handle tasks like setting up and using a conda environment, installing conda packages, and running Pytest scripts.
 
 Even though the Github Actions runner does not interface with my local conda environment, I still need an environment yaml made with:
 
 `conda env export > project_root/path/to/environment.yml`
 
-I also needed to create a main.nf file to run the Nextflow pipeline. I had to define processes and workflows correctly, and even this was more straightforward than correctly formatting and calling methods for Github Actions.
+I also had to create a main.nf file to run the Nextflow pipeline, which involved defining processes and workflows correctly. This was more straightforward than correctly formatting and calling methods for Github Actions.
 
-The best parts of the user experience of Github Actions are: its error messages, its little progress circles for `build` and `test`, and that Github emails you when your workflow run fails. Every push automatically runs the pipeline, which can be tracked in real time from the Actions tab of your repo. The logging provides informative detail as to where the errors occurred. Each run of your pipeline also gets a name and number. 
+Helpful Github Actions features include: its clear error messages, progress indicators during build and test, and email notifications for workflow failures. It seamlessly integrates with Github, where each push triggers a pipeline run that can be monitored in real time on the Actions tab, with detailed logs showing where errors occurred. Each run also gets a unique identifier for tracking.
 
-While the web experience was easy to pick up, the complex syntax for Nextflow and Github Actions created a bigger challenge for me. However, the Nextflow documentation has many useful examples (e.g., the Machine Learning pipeline<sup>[1](#ref1)</sup>; there's even an RNA-seq pipeline<sup>[2](#ref2)</sup>.).  
+While the web interface of Github Actions was easy to use, dealing with the syntax of Nextflow and Github Actions was more challenging. However, the Nextflow documentation has many useful examples (e.g., the Machine Learning pipeline<sup>[1](#ref1)</sup>; there's even an RNA-seq pipeline<sup>[2](#ref2)</sup>.).  
 
-I appreciate that the authors of Nextflow and Github Actions aimed for simplicity of ordering tasks and assigning dependencies. The templates for Nextflow and Github Actions workflow files take heavily stereotyped forms. 
+I appreciate the simplicity in task sequencing and dependency assignment offered by Nextflow and Github Actions. Their template workflow files simplify task management, making them stand out among CI/CD tools. 
 
-Overall, I can say that I much prefer Github Actions to other CI/CD tools, and I really like Nextflow for organizing my workflows; it beats manually numbering script file names, and then stashing them all in a bash script. For both development and production, my use case has allowed me to see that the learning curve for Nextflow and Github Actions is worth the effort. 
+I personally prefer Github Actions to other CI/CD tools, and Nextflow has been great for organizing my workflows, eliminating the need for manual script numbering and cluttered bash scripts. Despite the learning curve, Nextflow and Github Actions have significantly improved my development and production workflows.
 
 ### Code availability
 
