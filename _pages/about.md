@@ -6,25 +6,27 @@ header:
 ---
 Welcome to my page!
 
-I’m a San Francisco-based bioinformatics scientist, with a background that includes collaboration on clinical trials for cancer immunotherapy (inaccurately called "cancer vaccines") and gene therapies for rare disorders. I am most experienced in Python, Linux, and R programming, especially in support of CRISPR gene editing and next-generation sequencing (NGS) data analysis. Of all the NGS assays, I most enjoy working with RNA-Seq datasets, and have gained extensive experience in several workflows, including: read mapping, variant calling, differential gene expression, gene set enrichment, pairwise and multiple sequence alignment, genomic variant annotation, and genome-wide association studies (GWAS). Several bioinformatics toolkits have aided my analyses, including BEDtools, BLAST, BWA, Galaxy, GATK, Hail, and SAMtools. 
+I am a San Francisco-based bioinformatics scientist specializing in CRISPR gene editing and next-generation sequencing (NGS) data analysis. My career has spanned collaborations on cancer immunotherapy trials and pioneering gene therapies for rare disorders. Key skills include Python, Linux, and R programming, with a focus on single-cell data analysis and custom pipeline development.
 
-As I work on CRISPR experiments, I have become familiar with the state-of-the-art, *in silico* off-target editing analysis tools; I have studied their comparative concordance sensitivity of these tools to refine the efficacy of genetic modifications. In collaboration with bench scientists (mainly molecular biologists), I have extended these tools into custom analysis pipelines with their own user interfaces. 
+I excel in refining functional genomics experiments through in-depth on- and off-target editing analysis. My expertise extends to managing diverse projects, fostering team collaboration, and promoting scientific rigor and experimental reproducibility. Notable achievements include:
 
-I enjoy learning about and teaching these technologies to others. I care deeply about scientific rigor, experimental reproducibility, team diversity and inclusion (as I am gay, Cuban-American, and non-binary), and open source bioinformatics projects. For leisure, I enjoy classical music, good books, ultimate frisbee, and experiencing the natural beauty of the Bay Area.
+ - Designing genome-wide guide libraries for CRISPR gene silencing and activation (CRISPRi/a) with Cas9 and Cas12a in human cell lines.
 
-As I enjoy working on projects together, please feel free to reach out for collaboration! 
+ - Streamlining CRISPR experiments through comparative sensitivity studies of off-target editing analysis tools.
+ 
+ - Collaborating with molecular biologists to develop custom analysis pipelines, enhancing data interpretation and accessibility.
+ 
+ - Prototyping an in-house population genetic database with high-performance computing (HPC) and distributed systems that can ingest, store, and retrieve large-scale genomic datasets (e.g. GWAS)
+ 
+ - Advocating for diversity and inclusion within scientific teams and contributing to open-source bioinformatics projects.
+
+Outside of work, I enjoy classical music, literature, and outdoor activities in the Bay Area.
+
+I am open to exciting collaborations and opportunities that align with my passion for advancing bioinformatics research and promoting inclusivity.
 
 Thank you,
 
 James
-
-pronouns: ze*/zir/zem or they/them/theirs
+they/them/theirs; he/him/his
 
 email: jsacco001@gmail.com
-
-
-
-
-
-
-\*: pronounced "zee"
