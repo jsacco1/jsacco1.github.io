@@ -28,5 +28,3 @@ Thank you,
 
 James
 they/them/theirs; he/him/his
-
-email: jsacco001@gmail.com
