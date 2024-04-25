@@ -27,4 +27,5 @@ I am open to exciting collaborations and opportunities that align with my passio
 Thank you,
 
 James
+
 they/them/theirs; he/him/his
