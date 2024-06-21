@@ -1,5 +1,7 @@
 # Knit the HTML version
 # set working directory to correct folder
+setwd("~/R/jsacco1.github.io/cv")
+
 rmarkdown::render("index.Rmd",
                   params = list(pdf_mode = FALSE),
                   output_file = "index.html")

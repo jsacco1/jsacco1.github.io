@@ -77,8 +77,6 @@ a:hover {
 Aside
 ================================================================================
 
-![dna cut](https://www.pinclipart.com/picdir/big/528-5286661_image-of-blue-dna-being-cleaved-in-half.png){width=60%} 
-
 ```{r}
 #add side note where to find online version
 if(params$pdf_mode){
@@ -91,11 +89,11 @@ if(params$pdf_mode){
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> jsacco001@gmail.com
-- <i class="fas fa-link"></i> [jsacco1.github.io](https://jsacco1.github.io)
-- <i class="fa fa-github"></i> [github.com](https://github.com/jsacco1)
-- <i class="fa fa-linkedin"></i> [linkedin.com](https://www.linkedin.com/in/james-sacco/)
-- <i class="fa fa-phone"></i> +1 (786)-473-9993
+- <i class="fa fa-envelope"></i>  jsacco001@gmail.com
+- <i class="fas fa-link"></i>  [jsacco1.github.io](https://jsacco1.github.io)
+- <i class="fa fa-github"></i>  [github.com](https://github.com/jsacco1)
+- <i class="fa fa-linkedin"></i>  [linkedin.com](https://www.linkedin.com/in/james-sacco/)
+- <i class="fa fa-phone"></i>  +1 (786)-473-9993
 
 Work authorization: US citizen
 
@@ -104,27 +102,29 @@ For more information, please contact me via email.
 Key Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Expert programming in **Python**, **R**, and **Linux** shell scripting
+- **Machine learning** (scikit-learn, Keras)
 
-- Proficiency with **single cell epi-/genomics**, **machine learning**, **experimental design**, and **robust and reproducible analyses**
+- **Single cell multi-omics**, **experimental design**, and **robust and reproducible analyses**
+
+- Bioinformatics databases and workflows (Snakemake, Tableau, Docker, Singularity)
+
+- Cloud data analysis (PySpark, Hail), **AWS deep learning stack** (EC2, SageMaker, S3)
 
 - High scientific rigor & willingness to teach and learn about new computational methods and biology
+
 
 Main
 ================================================================================
 
-**James Sacco** {#title}
+**James Sacco, M.Sc.** {#title}
 --------------------------------------------------------------------------------
 
-**Laboratory for Genomics Research, University of California, San Francisco, San Francisco, CA 94158, USA**
+**Senior Bioinformatician  |  Machine Learning Enthusiast**
 
-Self-motivated computational biologist with seven years of both academic and industry experience in: **genetic diseases, cancer immunotherapies, functional genomics, and biomedical software development.**
-
-An analytical thinker and quick learner, with broad experience in AI/ML, gene regulatory network inference, and multi-omic single cell data analysis. Published manuscript on the population genetics of rare disorders.
 
 --------------------------------------------------------------------------------
 
-Selected Experience {data-icon=briefcase}
+Experience {data-icon=briefcase}
 --------------------------------------------------------------------------------
 
 ### Bioinformatics Programmer III
@@ -133,20 +133,19 @@ Selected Experience {data-icon=briefcase}
 
 San Francisco, CA
 
-Present - 2022
+2024 - 2022
 
 :::concise
-● Led investigation of computational rules for **CRISPR interference (CRISPRi) guide RNA design** optimization, using **Python machine learning modules.**
+● **Conceptualized and designed** a CRISPR-Cas12a library of guide RNAs, with genomic, transcriptomic, and epigenomic data to ensure comprehensive coverage.
 
-● Improved whole-genome targeting of promoter regions in a **genome-wide CRISPRi dual-guide library** in K562 cancer cell lines.
+● **Investigated drivers** of CRISPR efficacy, using ML, resulting in a 15% increase in targeting accuracy.
 
-● **Identified over 100 putative therapeutic targets** for Niemann-Pick Type C Disease, as **computational lead** on a CRISPRi screening project.
+● **Led computational analyses** of multiple CRISPR screens in rare diseases, identifying 400 gene hits.
 
-● Integrated **single-cell epigenetic and transcriptomic data** to computationally reconstruct **gene regulatory networks** for seventy-six transcription factors in iPSC-derived cells.
+●	Co-authored manuscript on key regulators of human stem cell differentiation.
 
-● Mentored two programmers on the computational biology team.
+●	**Collaborated with wet-lab scientists** to support 5 projects, accelerating project timelines by up to 20%.
 
-● **Co-authored a manuscript** officially intended for publication, on in-house experimental findings.
 :::
 
 ### Bioinformatics Scientist
@@ -158,13 +157,14 @@ Milpitas, CA
 2022 - 2021
 
 ::: concise
-● Quantifed and characterized **CRISPR gene modifications** in a sickle-cell disease model, with both in-house and open-source tools for genomic data analysis.
+● **Conducted comparative analyses** of off-target detection methods in CRISPR screens using single-cell data, employing statistical models to evaluate accuracy.
 
-● Queried, retrieved, and integrated data from public genomics databases, to enhance on-target gene editing with **sequence alignment** protocols. 
+● Developed a **custom sequence alignment** pipeline for gene editing, improving alignment speed by 80%.
 
-● Examined concordance and sensitivity of **five computational CRISPR off-target error detection methods**.
+● Automated workflows for sequence alignment, NGS data analysis, and off-target detection, reducing processing time by 60% and enhancing collaboration with experimental teams.
 
-● Streamlined high-performance analyses for bench scientists via **custom data pipelines** and **user interfaces**, enabling round-the-clock analyses.
+● Implemented company's **first version control** processes, standardizing collaborative software development and data analysis.
+
 :::
 
 ### Biomarker Data Analyst II
@@ -175,31 +175,30 @@ South San Francisco, CA
 2020 - 2019
 
 ::: concise
-● Established department-first **machine learning pipeline** to study effects of biomarker operations on quality of cancer immunotherapy assays.
 
 ::: aside
 
 #### PROGRAMMING SKILLS
 
-<i class="fab fa-python"></i> `Python` ★★★★★
+<i class="fab fa-python"></i> `Python`
 
-<i class="fab fa-r-project"></i> `R` ★★★★☆
+<i class="fab fa-r-project"></i> `R`
 
-<i class="fab fa-linux"></i> `Linux` ★★★★☆
+<i class="fab fa-linux"></i> `Linux`
 
-<i class="fas fa-code-branch"></i> `Git` ★★★★★
+<i class="fas fa-code-branch"></i> `Git`
 
-<i class="fab fa-markdown"></i> `Markdown`★★★★★
+![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++`
 
-![C++](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/e72a5db2c9d73f90a4d5b110bd3fa22bde9ce2eb/images/cpp-svg-44444.svg){width=7%} `C++` ★★★☆☆
-
-![MATLAB](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/a52737b1c6e96042f1974d3aa700c6df19edcee0/images/matlab-444444.svg){width=7%} `MATLAB` ★★★☆☆
+![MATLAB](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/a52737b1c6e96042f1974d3aa700c6df19edcee0/images/matlab-444444.svg){width=7%} `MATLAB`
 
 :::
 
-●	Upgraded **data operations** for six data streams, including flow cytometry, biomarker operations, and oncology data warehouses.
+● **Optimized clinical trials** by streamlining biomarker analysis using ML models, including regression, random forest, and Xgboost, as well as explainable AI.
 
-●	Monitored and solved sample data quality issues for two cancer immunotherapy trial arms.
+●	**Improved sample quality** by 10% across 49 clinical trial arms with department's first ML pipeline to study the effects of biomarker operations on the quality of cancer immunotherapy assays.
+
+●	**Upgraded data operations** for 6 data streams, including flow cytometry, biomarker operations, and oncology data warehouses, resulting in more efficient data sharing.
 :::
 
 ### Data Curator
@@ -211,17 +210,11 @@ South San Francisco, CA
 2019 - 2018 
 
 ::: concise
-●	Collaborated with AI engineers to create an ETL pipeline for **multi-modal survival prediction and patient stratification**, by using Python ML and R to integrate **gene panel** and **RNA-Seq data**.
+●	Integrated RNA assays, enhancing **AI/ML module performance** efficacy by at least 10%.
 
-●	Designed ETL data pipeline for integration of **real-world EHRs** into **deep learning** module, using Python, SQL, and Apache Spark.
+●	**Enabled AI/ML team** in patient stratification with robust data pipelines for static and time series data points.
 
-●	Organized and managed close coordination of Artificial Intelligence, data management, and DevOps functions, to bring **clinical machine learning** from prototype to production.
-
-●	Provided AI and genomic analytic insights in collaboration with Roche-wide data curators and integrators network, to establish F.A.I.R. data management strategies for legacy, current, and next-generation datasets
-
-●	Tested data querying capabilities of newly-acquired AWS-based tech stack.
-
-●	Scoped design of in-house proteomics assay data ingestion and storage
+●	Coordinated data governance and integration between AI/ML, data management, and DevOps functions, to bring **clinical ML** from prototype to production.
 :::
 
 ### Data Curator, Bioinformatics Analyst 
@@ -233,15 +226,14 @@ San Rafael, CA
 2018 - 2017 
 
 ::: concise
-●	Established an integrated genetic and curated literature workflow to predict incidence and prevalence rates of **over sixty rare, genetic disorders,** with **R statistical and data visualization packages** and **MATLAB**.
+●	**Published author** on ARSA gene research for metachromatic leukodystrophy, adding to rare disease drug development.
 
-●	Upgraded and tested **RNA-Seq data pipeline (STAR2, SAMtools, Bioconductor)** to discern disease contribution of **rare variants** to neural disease.
+●	**Streamlined data analysis** and visualization using R, Python, and MATLAB, improving data analysis speed by 70%.
 
-●	Spearheaded development of three relational databases derived from **Hail population genomics platform**, in collaboration with software engineer.
+●	**Developed workflows** for pathogenic variant identification across 60 rare disorders, resulting in more accurate prediction of disease prevalence and incidence.
 
-●	Co-authored manuscript submitted to peer-reviewed publication, on **prediction of disease severity** in metachromatic leukodystrophy.
+●	**Prototyped relational databases** with Hail for efficient genomic data storage, improving data management and accessibility.
 
-●	Developed **allele-specific association models and GWAS analysis software** for two later published manuscripts.
 :::
 
 :::aside
@@ -277,9 +269,8 @@ Miami, FL
 2017 - 2016
 
 ::: concise
-●	Mentored research associates in developing bioinformatic skills, specifically in **multiple sequence alignment** and **standard molecular biological protocols** (restriction enzyme digestion, gel electrophoresis, spectrophotometry).
 
-●	Identified over forty putative **conserved vertebrate phosphodiesterase proteins**, by using multiple sequence alignment and genomic evidence.
+●	Identified over forty putative **conserved vertebrate phosphodiesterase proteins**, using multiple sequence alignment and genomic evidence.
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -287,25 +278,11 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Rowan University, Graduate School of Biomedical Sciences
 
-Master of Biomedical Science (Distinction)
+Master of Biomedical Science
 
 Stratford, NJ
 
 N/A
-
-"Mechanisms of synaptic signaling dysfunction in hippocampal long-term potentiation"
-
-  Related coursework:
-  
-  ●	Biochemistry
-  
-  ●	Molecular Biology
-  
-  ●	Cell Biology
-  
-  ●	Mechanisms of Disease
-  
-  ●	Pharmacology
 
 ### Florida International University, The Honors College
 
@@ -438,11 +415,17 @@ N/A
 
 #### HOBBIES
 
-Stonewall Sports kickball. San Francisco, CA. 2023 -- Present.
+Stonewall Sports kickball. San Francisco, CA. 2023.
 
 Ultimate frisbee player. San Francisco, CA. 2018 -- Present.
 
-Rugby at *Seattle Quake RFC*. Seattle, WA. 2016 -- 2017.
+Rugby at *Seattle Quake RFC*. Seattle, WA. 2017.
+
+Literature
+
+Classical Music
+
+Language Learning
 
 :::
 
