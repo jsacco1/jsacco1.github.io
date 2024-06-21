@@ -119,7 +119,7 @@ Main
 **James Sacco, M.Sc.** {#title}
 --------------------------------------------------------------------------------
 
-**Senior Bioinformatician  |  Machine Learning Enthusiast**
+**Senior Bioinformatician**  |  **Machine Learning Enthusiast**
 
 
 --------------------------------------------------------------------------------
@@ -145,7 +145,6 @@ San Francisco, CA
 ●	Co-authored manuscript on key regulators of human stem cell differentiation.
 
 ●	**Collaborated with wet-lab scientists** to support 5 projects, accelerating project timelines by up to 20%.
-
 :::
 
 ### Bioinformatics Scientist
@@ -164,7 +163,6 @@ Milpitas, CA
 ● Automated workflows for sequence alignment, NGS data analysis, and off-target detection, reducing processing time by 60% and enhancing collaboration with experimental teams.
 
 ● Implemented company's **first version control** processes, standardizing collaborative software development and data analysis.
-
 :::
 
 ### Biomarker Data Analyst II
@@ -193,7 +191,6 @@ South San Francisco, CA
 ![MATLAB](https://raw.githubusercontent.com/jsacco1/jsacco1.github.io/a52737b1c6e96042f1974d3aa700c6df19edcee0/images/matlab-444444.svg){width=7%} `MATLAB`
 
 :::
-
 ● **Optimized clinical trials** by streamlining biomarker analysis using ML models, including regression, random forest, and Xgboost, as well as explainable AI.
 
 ●	**Improved sample quality** by 10% across 49 clinical trial arms with department's first ML pipeline to study the effects of biomarker operations on the quality of cancer immunotherapy assays.
@@ -215,6 +212,7 @@ South San Francisco, CA
 ●	**Enabled AI/ML team** in patient stratification with robust data pipelines for static and time series data points.
 
 ●	Coordinated data governance and integration between AI/ML, data management, and DevOps functions, to bring **clinical ML** from prototype to production.
+
 :::
 
 ### Data Curator, Bioinformatics Analyst 
