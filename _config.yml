@@ -15,7 +15,7 @@ name                     : "James Sacco"
 description              : "Bioinformatics Portfolio"
 url                      : "https://jsacco1.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jsacco1/jsacco1.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/pexels-egor-kamelev-753267.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
