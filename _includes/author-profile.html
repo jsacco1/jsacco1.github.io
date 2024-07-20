@@ -277,6 +277,11 @@
         </li>
       {% endif %}
 
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i>
+            ResearchGate</a></li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
