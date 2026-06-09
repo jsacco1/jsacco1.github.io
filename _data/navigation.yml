@@ -6,6 +6,8 @@ main:
     url: blog/
   - title: "CV"
     url: cv/
+  - title: "Consulting"
+    url: consulting/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
