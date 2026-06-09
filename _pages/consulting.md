@@ -42,7 +42,7 @@ I have worked at:
 - **BioMarin Pharmaceutical** — Rare disease genomics
 - **ASC Therapeutics** — Gene therapy pipeline development
 
-My publications include a 2023 paper in *Genome Biology* and a 2026 paper in *Nature* identifying LASER, a multicomponent protein assembly that couples lysosomal damage sensing to ESCRT-dependent membrane repair.
+My publications include a 2023 paper in *Genome Biology* and a [2026 paper in *Nature*](https://doi.org/10.1038/s41586-026-10604-6) identifying LASER, a multicomponent protein assembly that couples lysosomal damage sensing to ESCRT-dependent membrane repair.
 
 [Google Scholar](https://scholar.google.com/citations?user=LLFPCjYAAAAJ&hl) | [GitHub](https://github.com/jsacco1) | [ORCID](https://orcid.org/0000-0001-6324-2080)
 

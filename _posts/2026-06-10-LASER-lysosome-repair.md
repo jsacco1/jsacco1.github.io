@@ -60,6 +60,6 @@ This is increasingly the value proposition of functional genomics in cell biolog
 
 ---
 
-The paper is open access in *Nature* (published June 3, 2026). If you work on lysosomal biology, ESCRT function, neurodegeneration, or functional genomics and want to discuss the work, feel free to reach out.
+The paper is open access in *Nature* (published June 3, 2026): [LASER couples damage sensing to ESCRT assembly for lysosome repair](https://doi.org/10.1038/s41586-026-10604-6). If you work on lysosomal biology, ESCRT function, neurodegeneration, or functional genomics and want to discuss the work, feel free to reach out.
 
 [jsacco001@gmail.com](mailto:jsacco001@gmail.com)
